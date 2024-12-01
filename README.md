@@ -17,7 +17,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 ## 学习资料(外部)
 官方文档、资源
 - OpenAI
-  [] OpenAI developer platform ⭐️⭐️⭐️: https://platform.openai.com/docs/overview
+    [] OpenAI developer platform ⭐️⭐️⭐️: https://platform.openai.com/docs/overview
   [] OpenAI Cookbook ⭐️⭐️⭐️ https://cookbook.openai.com/
     [] Related resources from around the web | OpenAI Cookbook https://cookbook.openai.com/articles/related_resources
   - OpenAI Dev-Day 2023: Breakout Sessions! https://community.openai.com/t/openai-dev-day-2023-breakout-sessions/505213
