@@ -18,8 +18,8 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 官方文档、资源
 - OpenAI
   - [ ] OpenAI developer platform ⭐️⭐️⭐️: https://platform.openai.com/docs/overview
-  [] OpenAI Cookbook ⭐️⭐️⭐️ https://cookbook.openai.com/
-    [] Related resources from around the web | OpenAI Cookbook https://cookbook.openai.com/articles/related_resources
+  - [ ] OpenAI Cookbook ⭐️⭐️⭐️ https://cookbook.openai.com/
+    - [ ] Related resources from around the web | OpenAI Cookbook https://cookbook.openai.com/articles/related_resources
   - OpenAI Dev-Day 2023: Breakout Sessions! https://community.openai.com/t/openai-dev-day-2023-breakout-sessions/505213
 - Gemini
 - Claude
@@ -28,16 +28,16 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
   - https://www.youtube.com/@anthropic-ai
 
 知识库
-[] 📃 通往 AGI 之路 ⭐️⭐️⭐️
+- [ ] 📃 通往 AGI 之路 ⭐️⭐️⭐️
 - Generative AI Engineer 知識庫 - ihower's Notes https://ihower.tw/notes/generative-ai-engineer
 
 课程
 - 入门课程推荐 ⭐️⭐️⭐️
-[] 🎬 https://www.deeplearning.ai/ ⭐️⭐️⭐️
+- [ ] 🎬 https://www.deeplearning.ai/ ⭐️⭐️⭐️
 - 🎬 YouTube Playlist
-  [] Understanding AI Models | by IBM Technology https://www.youtube.com/playlist?list=PLOspHqNVtKAC-FUNMq8qjYVw6_semZHw0
-  [] Large Language Models and Chatbots | by IBM Technology https://www.youtube.com/playlist?list=PLOspHqNVtKAAsiohuZj1Bt4XpA3_bkS3c
-  [] AI and Machine Learning with Google Cloud Tech | by Google Cloud Tech https://www.youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn
+  - [ ] Understanding AI Models | by IBM Technology https://www.youtube.com/playlist?list=PLOspHqNVtKAC-FUNMq8qjYVw6_semZHw0
+  - [ ] Large Language Models and Chatbots | by IBM Technology https://www.youtube.com/playlist?list=PLOspHqNVtKAAsiohuZj1Bt4XpA3_bkS3c
+  - [ ] AI and Machine Learning with Google Cloud Tech | by Google Cloud Tech https://www.youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn
   - 🎧 Large Language Models (LLMs) | by The TWIML AI Podcast with Sam Charrington https://www.youtube.com/playlist?list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox
   - Google’s AI Course for Beginners (in 10 minutes)! https://www.youtube.com/watch?v=Yq0QkCxoTHM&t=6s&ab_channel=JeffSu
   - Claude 3.5 Crash Course for Developers: Code 10x Faster in 2024 [Claude 3.5 artifacts] https://www.youtube.com/watch?v=fMa2zQIkQwM&ab_channel=codewithbrandon
@@ -47,17 +47,17 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 
 AI
 - IBM 出品
-  [] AI Fundamentals | by IBM Technology ⭐️⭐️⭐️ https://www.youtube.com/playlist?list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF
+  - [ ] AI Fundamentals | by IBM Technology ⭐️⭐️⭐️ https://www.youtube.com/playlist?list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF
   [x] 🎬 AI vs Machine Learning ⭐️⭐️⭐️: https://www.youtube.com/watch?v=4RixMPF4xis&t=4s&ab_channel=IBMTechnology
   [x] 🎬 AI, Machine Learning, Deep Learning and Generative AI Explained ⭐️⭐️⭐️ https://www.youtube.com/watch?v=qYNweeDHiyU&ab_channel=IBMTechnology 
-  [] 🎬 What are Generative AI models? https://www.youtube.com/watch?v=hfIUstzHs9A&ab_channel=IBMTechnology
-  [] The Evolution of AI: Traditional AI vs. Generative AI https://www.youtube.com/watch?v=SNZSm02_fpU&ab_channel=IBMTechnology
+  - [ ] 🎬 What are Generative AI models? https://www.youtube.com/watch?v=hfIUstzHs9A&ab_channel=IBMTechnology
+  - [ ] The Evolution of AI: Traditional AI vs. Generative AI https://www.youtube.com/watch?v=SNZSm02_fpU&ab_channel=IBMTechnology
   - The 7 Types of AI - And Why We Talk (Mostly) About 3 of Them https://www.youtube.com/watch?v=XFZ-rQ8eeR8&ab_channel=IBMTechnology
 - 🎬 AI: Explained https://www.youtube.com/watch?v=60LZ5Ie8XS8&ab_channel=Mrwhosetheboss
 - 🎬 How AIs, like ChatGPT, Learn https://www.youtube.com/watch?v=R9OHn5ZF4Uo&ab_channel=CGPGrey
 - 🎬 Introduction to Generative AI https://www.youtube.com/watch?v=G2fqAlgmoPo&ab_channel=GoogleCloudTech
 - 🎬 Generative AI in a Nutshell - how to survive and thrive in the age of AI https://www.youtube.com/watch?v=2IK3DFHRFfw&ab_channel=HenrikKniberg
-[] 🎬 What is Data Pipeline? | Why Is It So Popular? https://www.youtube.com/watch?v=kGT4PcTEPP8&ab_channel=ByteByteGo
+- [ ] 🎬 What is Data Pipeline? | Why Is It So Popular? https://www.youtube.com/watch?v=kGT4PcTEPP8&ab_channel=ByteByteGo
 - 🎧  The TWIML AI Podcast with Sam Charrington
   - Language Understanding and LLMs with Christopher Manning - 686 https://www.youtube.com/watch?v=VIZwxufxg28&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=2&t=2010s&ab_channel=TheTWIMLAIPodcastwithSamCharrington
   - Training Data Locality and Chain-of-Thought Reasoning in LLMs with Ben Prystawski - 673 https://www.youtube.com/watch?v=MRwLhpqkSUM&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=14&ab_channel=TheTWIMLAIPodcastwithSamCharrington
@@ -71,10 +71,10 @@ AI
 机器学习(Machine Learning)
 - 🎬 Machine Learning Explained in 100 Seconds https://www.youtube.com/watch?v=PeMlggyqz0Y&ab_channel=Fireship
 - 🎬 IBM 出品
-  [] What is Machine Learning? ⭐️⭐️⭐️  https://www.youtube.com/watch?v=9gGnTQTYNaE&ab_channel=IBMTechnology
+  - [ ] What is Machine Learning? ⭐️⭐️⭐️  https://www.youtube.com/watch?v=9gGnTQTYNaE&ab_channel=IBMTechnology
   - Ten Everyday Machine Learning Use Cases https://www.youtube.com/watch?v=CiSaY2xl9V4&ab_channel=IBMTechnology
-  [] Machine Learning vs Deep Learning ⭐️⭐️⭐️ https://www.youtube.com/watch?v=q6kJ71tEYqM&ab_channel=IBMTechnology
-  [] Supervised vs. Unsupervised Learning ⭐️⭐️⭐️ https://www.youtube.com/watch?v=W01tIRP_Rqs&ab_channel=IBMTechnology
+  - [ ] Machine Learning vs Deep Learning ⭐️⭐️⭐️ https://www.youtube.com/watch?v=q6kJ71tEYqM&ab_channel=IBMTechnology
+  - [ ] Supervised vs. Unsupervised Learning ⭐️⭐️⭐️ https://www.youtube.com/watch?v=W01tIRP_Rqs&ab_channel=IBMTechnology
 - 🎧  The TWIML AI Podcast with Sam Charrington ⭐️
   - AI Trends 2024: Machine Learning & Deep Learning with Thomas Dietterich - 666 https://www.youtube.com/watch?v=ZwKaDPT7NLI&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=9&ab_channel=TheTWIMLAIPodcastwithSamCharrington
   - AI Trends 2024: Reinforcement Learning in the Age of LLMs with Kamyar Azizzadenesheli - 670 https://www.youtube.com/watch?v=MBo6SIIhTIY&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=10&ab_channel=TheTWIMLAIPodcastwithSamCharrington
@@ -89,32 +89,32 @@ AI
 - 🎬 I Built a Neural Network from Scratch https://www.youtube.com/watch?v=cAkMcPfY_Ns&ab_channel=GreenCode
 
 LLM
-[] Goolge 出品 ⭐️⭐️⭐️
-  [] 🎬 Introduction to large language models https://www.youtube.com/watch?v=zizonToFXDs&ab_channel=GoogleCloudTech
-  [] 🎬 Transformers, explained: Understand the model behind GPT, BERT, and T5 https://www.youtube.com/watch?v=SZorAJ4I-sA&ab_channel=GoogleCloudTech
-  [] 🎬 What are Large Language Models (LLMs)? https://www.youtube.com/watch?v=iR2O2GPbB0E&ab_channel=GoogleforDevelopers
-[] IBM 出品 ⭐️⭐️⭐️
-  [] 🎬 What is NLP (Natural Language Processing)? https://www.youtube.com/watch?v=fLvJ8VdHLA0&ab_channel=IBMTechnology
-  [] 🎬 How Large Language Models Work https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
-  [] 🎬 Why Large Language Models Hallucinate https://www.youtube.com/watch?v=cfqtFvWOfg0&ab_channel=IBMTechnology
-  [] 🎬 What are Transformers (Machine Learning Model)? https://www.youtube.com/watch?v=ZXiruGOCn9s&ab_channel=IBMTechnology
-  [] 🎬 Transforming Language with Generative Pre-trained Transformers (GPT) https://www.youtube.com/watch?v=bdICz_sBI34&ab_channel=IBMTechnology
-  [] 🎬 Should You Use Open Source Large Language Models? https://www.youtube.com/watch?v=y9k-U9AuDeM&ab_channel=IBMTechnology
-    [] 🎬 Llama: The Open-Source AI Model that's Changing How We Think About AI https://www.youtube.com/watch?v=8c2LnKNoSmg&ab_channel=IBMTechnology
-  [] 🎬 What Makes Large Language Models Expensive? https://www.youtube.com/watch?v=7gMg98Hf3uM&ab_channel=IBMTechnology
-  [] Large Language Models: How Large is Large Enough? https://www.youtube.com/watch?v=7a2s3_wkiWo&ab_channel=IBMTechnology
+- [ ] Goolge 出品 ⭐️⭐️⭐️
+  - [ ] 🎬 Introduction to large language models https://www.youtube.com/watch?v=zizonToFXDs&ab_channel=GoogleCloudTech
+  - [ ] 🎬 Transformers, explained: Understand the model behind GPT, BERT, and T5 https://www.youtube.com/watch?v=SZorAJ4I-sA&ab_channel=GoogleCloudTech
+  - [ ] 🎬 What are Large Language Models (LLMs)? https://www.youtube.com/watch?v=iR2O2GPbB0E&ab_channel=GoogleforDevelopers
+- [ ] IBM 出品 ⭐️⭐️⭐️
+  - [ ] 🎬 What is NLP (Natural Language Processing)? https://www.youtube.com/watch?v=fLvJ8VdHLA0&ab_channel=IBMTechnology
+  - [ ] 🎬 How Large Language Models Work https://www.youtube.com/watch?v=5sLYAQS9sWQ&ab_channel=IBMTechnology
+  - [ ] 🎬 Why Large Language Models Hallucinate https://www.youtube.com/watch?v=cfqtFvWOfg0&ab_channel=IBMTechnology
+  - [ ] 🎬 What are Transformers (Machine Learning Model)? https://www.youtube.com/watch?v=ZXiruGOCn9s&ab_channel=IBMTechnology
+  - [ ] 🎬 Transforming Language with Generative Pre-trained Transformers (GPT) https://www.youtube.com/watch?v=bdICz_sBI34&ab_channel=IBMTechnology
+  - [ ] 🎬 Should You Use Open Source Large Language Models? https://www.youtube.com/watch?v=y9k-U9AuDeM&ab_channel=IBMTechnology
+    - [ ] 🎬 Llama: The Open-Source AI Model that's Changing How We Think About AI https://www.youtube.com/watch?v=8c2LnKNoSmg&ab_channel=IBMTechnology
+  - [ ] 🎬 What Makes Large Language Models Expensive? https://www.youtube.com/watch?v=7gMg98Hf3uM&ab_channel=IBMTechnology
+  - [ ] Large Language Models: How Large is Large Enough? https://www.youtube.com/watch?v=7a2s3_wkiWo&ab_channel=IBMTechnology
 - 🎬 Large Language Models explained briefly https://www.youtube.com/watch?v=LPZh9BOjkQs&ab_channel=3Blue1Brown
 - 🎬 LLMs (Large Language Models) by Sam Witteveen https://www.youtube.com/playlist?list=PL8motc6AQftkp6hksbpzRps_NQvEKYOky
 - 🎬 [1hr Talk] Intro to Large Language Models https://www.youtube.com/watch?v=zjkBMFhNj_g&ab_channel=AndrejKarpathy
-[] 通向AGI之路：大型语言模型（LLM）技术精要: https://zhuanlan.zhihu.com/p/597586623
+- [ ] 通向AGI之路：大型语言模型（LLM）技术精要: https://zhuanlan.zhihu.com/p/597586623
 - 🎬 How AI Models Understand Language - Inside the World of Parameters and Tokens https://www.youtube.com/watch?v=mnqXgojQCJI&ab_channel=GenAIinplainEnglish
 ChatGPT
-[] 🎬 Andrej Karpathy微软Build大会精彩演讲： GPT状态和原理 - 解密OpenAI模型训练_哔哩哔哩 ⭐️⭐️⭐️： https://www.bilibili.com/video/BV1ts4y1T7UH/
+- [ ] 🎬 Andrej Karpathy微软Build大会精彩演讲： GPT状态和原理 - 解密OpenAI模型训练_哔哩哔哩 ⭐️⭐️⭐️： https://www.bilibili.com/video/BV1ts4y1T7UH/
 - ChatGPT Explained Completely. https://www.youtube.com/watch?v=-4Oso9-9KTQ&ab_channel=KyleHill
 - So How Does ChatGPT really work? Behind the screen! https://www.youtube.com/watch?v=WAiqNav2cRE&ab_channel=ArvinAsh
-[] 📖 What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings（微信读书上有中文版）⭐️⭐️⭐️ https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
-  [] 🎬 What is ChatGPT doing...and why does it work? Wolfram：https://www.youtube.com/watch?v=flXrLGPY3SU&ab_channel=Wolfram
-  [] 🎬 How ChatGPT works | Stephen Wolfram and Lex Fridman https://www.youtube.com/watch?v=Ic88oVqr66w&ab_channel=LexClips
+- [ ] 📖 What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings（微信读书上有中文版）⭐️⭐️⭐️ https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+  - [ ] 🎬 What is ChatGPT doing...and why does it work? Wolfram：https://www.youtube.com/watch?v=flXrLGPY3SU&ab_channel=Wolfram
+  - [ ] 🎬 How ChatGPT works | Stephen Wolfram and Lex Fridman https://www.youtube.com/watch?v=Ic88oVqr66w&ab_channel=LexClips
 - 🎬 How ChatGPT Works Technically | ChatGPT Architecture https://www.youtube.com/watch?v=bSvTVREwSNw&ab_channel=ByteByteGo
 Transformers
 - 🎬 Transformers (how LLMs work) explained visually | DL5 https://www.youtube.com/watch?v=wjZofJX0v4M&ab_channel=3Blue1Brown
@@ -137,7 +137,7 @@ Claude
 - New ChatGPT Canvas vs. Claude Artifacts: HTML/CSS to WebGL Refactoring https://www.youtube.com/watch?v=ub-LJx9WBs8&ab_channel=EduardsRuzga
 
 AI Agent
-[] 🎬 What are AI Agents? https://www.youtube.com/watch?v=F8NKVhkZZWI&ab_channel=IBMTechnology
+- [ ] 🎬 What are AI Agents? https://www.youtube.com/watch?v=F8NKVhkZZWI&ab_channel=IBMTechnology
 - 🎬 What is AI Agent? | Simple Explanation of an AI Agent https://www.youtube.com/watch?v=2-JV8UxegWE&ab_channel=codebasics
 - 🎬 AI Agents Explained: How This Changes Everything https://www.youtube.com/watch?v=obFilwqWpDI&ab_channel=BotNirvana
 - 🎬 AI Agents Explained Like You're 5 (Seriously, Easiest Explanation Ever!) https://www.youtube.com/watch?v=wazHMMaiDEA&ab_channel=Vendasta
@@ -153,7 +153,7 @@ AI Agent
   - 🎬 LLM Agents MOOC by Berkeley RDI Center on Decentralization & AI https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc
 Langchain
 - 🎬 IBM 出品
-  [] What is LangChain? https://www.youtube.com/watch?v=1bUy-1hGZpI&ab_channel=IBMTechnology
+  - [ ] What is LangChain? https://www.youtube.com/watch?v=1bUy-1hGZpI&ab_channel=IBMTechnology
   - LangChain vs LangGraph: A Tale of Two Frameworks https://www.youtube.com/watch?v=qAF1NjEVHhY&ab_channel=IBMTechnology
 - LangChain Explained in 13 Minutes | QuickStart Tutorial for Beginners https://www.youtube.com/watch?v=aywZrzNaKjs&ab_channel=Rabbitmetrics
 - LangChain Explained In 15 Minutes - A MUST Learn For Python Programmers https://www.youtube.com/watch?v=mrjq3lFz23s&ab_channel=TechWithTim
@@ -171,25 +171,25 @@ LLM 调参
 
 
 LLM 调优：Prompt Engineering, RAG, and Fine-tuning 
-[] https://platform.openai.com/docs/guides/ ⭐️⭐️⭐️ 
+- [ ] https://platform.openai.com/docs/guides/ ⭐️⭐️⭐️ 
 [x] 🎬 A Survey of Techniques for Maximizing LLM Performance⭐️⭐️⭐️: https://www.youtube.com/watch?v=ahnGLM-RC1Y&ab_channel=OpenAI
   - A Survey of Techniques for Maximizing LLM Performance (OpenAI DevDay) - ihower's Notes: https://ihower.tw/notes/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98-AI/2023/A+Survey+of+Techniques+for+Maximizing+LLM+Performance+(OpenAI+DevDay)
-[]  OpenAI Cookbook: https://cookbook.openai.com/
-  [] Related resources from around the web | OpenAI Cookbook: https://cookbook.openai.com/articles/related_resources
+- [ ]  OpenAI Cookbook: https://cookbook.openai.com/
+  - [ ] Related resources from around the web | OpenAI Cookbook: https://cookbook.openai.com/articles/related_resources
 - Optimizing Your LLM for Performance and Scalability - KDnuggets: https://www.kdnuggets.com/optimizing-your-llm-for-performance-and-scalability
 - 🎬 Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use https://www.youtube.com/watch?v=YVWxbHJakgg&ab_channel=EntryPointAI
 - 🎬 Fine-Tuning, RAG, or Prompt Engineering? The Ultimate LLM Showdown Explained! https://www.youtube.com/watch?v=nNSUDjbXZ1w&ab_channel=PatralekhSatyam
 - 🎬 RAG vs. Fine Tuning https://www.youtube.com/watch?v=00Q0G84kq3M&t=12s&ab_channel=IBMTechnology
 Prompt Engineering
-[] Open AI 出品
+- [ ] Open AI 出品
   [x] https://platform.openai.com/docs/guides/prompt-engineering ⭐️ ⭐️ ⭐️ 
-    [] https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api ⭐️ ⭐️ ⭐️ 
-[] Claude 出品
-  [] AI prompt engineering: A deep dive https://www.youtube.com/watch?v=T9aRN5JkmL8&ab_channel=Anthropic
-[] 🎬 IBM 出品
-  [] What is Prompt Tuning? https://www.youtube.com/watch?v=yu27PWzJI_Y&ab_channel=IBMTechnology
-  [] 🎬 4 Methods of Prompt Engineering https://www.youtube.com/watch?v=1c9iyoVIwDs&ab_channel=IBMTechnology
-[] 🎧  Mental Models for Advanced ChatGPT Prompting with Riley Goodside - 652  https://www.youtube.com/watch?v=fMUNDFTGVXc&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=5&ab_channel=TheTWIMLAIPodcastwithSamCharrington
+    - [ ] https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api ⭐️ ⭐️ ⭐️ 
+- [ ] Claude 出品
+  - [ ] AI prompt engineering: A deep dive https://www.youtube.com/watch?v=T9aRN5JkmL8&ab_channel=Anthropic
+- [ ] 🎬 IBM 出品
+  - [ ] What is Prompt Tuning? https://www.youtube.com/watch?v=yu27PWzJI_Y&ab_channel=IBMTechnology
+  - [ ] 🎬 4 Methods of Prompt Engineering https://www.youtube.com/watch?v=1c9iyoVIwDs&ab_channel=IBMTechnology
+- [ ] 🎧  Mental Models for Advanced ChatGPT Prompting with Riley Goodside - 652  https://www.youtube.com/watch?v=fMUNDFTGVXc&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=5&ab_channel=TheTWIMLAIPodcastwithSamCharrington
 - https://github.com/f/awesome-chatgpt-prompts
 - https://github.com/EmbraceAGI/awesome-chatgpt-zh
 - https://github.com/langgptai/wonderful-prompts
@@ -200,7 +200,7 @@ Prompt Engineering
 - The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts https://fka.gumroad.com/l/art-of-chatgpt-prompting
 - https://sulli.substack.com/p/chatgpt-4prompt-engineeringchatgpt
 - 🎬 Prompt Engineering 101 - Crash Course & Tips https://www.youtube.com/watch?v=aOm75o2Z5-o&ab_channel=AssemblyAI
-[] 🎬 What Is Chain-of-Thought Prompting in Generative AI? https://www.youtube.com/watch?v=Fp-ue4UCE3s&ab_channel=EyeonTech
+- [ ] 🎬 What Is Chain-of-Thought Prompting in Generative AI? https://www.youtube.com/watch?v=Fp-ue4UCE3s&ab_channel=EyeonTech
 - 🎬 I Discovered The Perfect ChatGPT Prompt Formula https://www.youtube.com/watch?v=pmzZF2EnKaA&ab_channel=SkillLeapAI
 - 🎬 5 Courses to master ChatGPT & Prompt engineering (100x your productivity) https://www.youtube.com/watch?v=Egg_5752XRs&ab_channel=PythonProgrammer
 - 🎬 Unlock a Career as a Prompt Engineer In 5 Minutes https://www.youtube.com/watch?v=lVIPPIyCmkM&ab_channel=BriDoesAI
@@ -209,10 +209,10 @@ Prompt Engineering
 - 🎬 Master the Perfect ChatGPT Prompt Formula (in just 8 minutes)! https://www.youtube.com/watch?v=jC4v5AS4RIM&ab_channel=JeffSu
 - 🎬 chatgpt 4 提示语教学 : 4个prompt engineering入门技巧提高和chatgpt的沟通效率 https://www.youtube.com/watch?v=dmb-CXgAtiI&t=1s&ab_channel=%E9%9B%AA%E8%8E%89sulliAI
 RAG
-[] IBM 出品
-  [] 🎬 What is Retrieval-Augmented Generation (RAG)? https://www.youtube.com/watch?v=T-D1OfcDW1M&ab_channel=IBMTechnology
-  [] 🎬 What is Agentic RAG? https://www.youtube.com/watch?v=0z9_MhcYvcY&ab_channel=IBMTechnology
-  [] 🎬 RAG Explained https://www.youtube.com/watch?v=qppV3n3YlF8&ab_channel=IBMTechnology
+- [ ] IBM 出品
+  - [ ] 🎬 What is Retrieval-Augmented Generation (RAG)? https://www.youtube.com/watch?v=T-D1OfcDW1M&ab_channel=IBMTechnology
+  - [ ] 🎬 What is Agentic RAG? https://www.youtube.com/watch?v=0z9_MhcYvcY&ab_channel=IBMTechnology
+  - [ ] 🎬 RAG Explained https://www.youtube.com/watch?v=qppV3n3YlF8&ab_channel=IBMTechnology
 - What is Retrieval Augmented Generation (RAG) - Augmenting LLMs with a memory https://www.youtube.com/watch?v=LAfrShnpVIk&ab_channel=What%27sAIbyLouis-Fran%C3%A7oisBouchard
 - What is RAG? (Retrieval Augmented Generation) https://www.youtube.com/watch?v=u47GtXwePms&ab_channel=DonWoodlock
 - 🎬 How to Improve LLMs with RAG (Overview + Python Code) https://www.youtube.com/watch?v=Ylz779Op9Pw&ab_channel=ShawTalebi
@@ -231,21 +231,21 @@ Embeddings and Vector Databases
 - 🎬 OpenAI Embeddings and Vector Databases Crash Course https://www.youtube.com/watch?v=ySus5ZS0b94&ab_channel=AdrianTwarog
 
 Fine-tuning 
-[] https://platform.openai.com/docs/guides/fine-tuning ⭐️ ⭐️ ⭐️ 
-  [] https://openai.com/index/api-model-distillation/
-  [] https://platform.openai.com/docs/guides/distillation
+- [ ] https://platform.openai.com/docs/guides/fine-tuning ⭐️ ⭐️ ⭐️ 
+  - [ ] https://openai.com/index/api-model-distillation/
+  - [ ] https://platform.openai.com/docs/guides/distillation
 - 详细教程：自定义大模型之微调ChatGPT https://news.qq.com/rain/a/20240701A0AHQH00
 - 什么是微调 (fine-tuning)? 如何微调 GPT-3.5 模型?｜ExplainThis https://www.explainthis.io/zh-hans/ai/fine-tuning-gpt
 - Fine-Tuning OpenAI's GPT-4: A Step-by-Step Guide  https://www.datacamp.com/tutorial/fine-tuning-openais-gpt-4-step-by-step-guide
 - https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction ⭐️⭐️⭐️
-[] 何时需要微调？微调的作用？⭐️⭐️⭐️ https://learn.microsoft.com/zh-cn/azure/ai-services/openai/concepts/fine-tuning-considerations
-[] 准备训练集、数据集可参考 ⭐️⭐️⭐️：https://learn.microsoft.com/zh-cn/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython-new&pivots=programming-language-studio#prepare-your-training-and-validation-data
+- [ ] 何时需要微调？微调的作用？⭐️⭐️⭐️ https://learn.microsoft.com/zh-cn/azure/ai-services/openai/concepts/fine-tuning-considerations
+- [ ] 准备训练集、数据集可参考 ⭐️⭐️⭐️：https://learn.microsoft.com/zh-cn/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython-new&pivots=programming-language-studio#prepare-your-training-and-validation-data
 - 🎬 How to tune LLMs in Generative AI Studio ⭐️⭐️⭐️ https://www.youtube.com/watch?v=4A4W03qUTsw&ab_channel=GoogleCloudTech
 - 🎧  Building Real-World LLM Products with Fine-Tuning and More with Hamel Husain - 694 ⭐️⭐️⭐️ https://www.youtube.com/watch?v=sGqEKzJYrNE&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=3&ab_channel=TheTWIMLAIPodcastwithSamCharrington
 - 🎬 EASIEST Way to Fine-Tune a LLM and Use It With Ollama https://www.youtube.com/watch?v=pxhkDaKzBaY&ab_channel=warpdotdev
-[] LoRA
-  [] 🎬 LoRA - Low-rank Adaption of AI Large Language Models: LoRA and QLoRA Explained Simply https://www.youtube.com/watch?v=lixMONUAjfs&ab_channel=WesRoth
-  [] 🎬 LoRA & QLoRA Fine-tuning Explained In-Depth https://www.youtube.com/watch?v=t1caDsMzWBk&ab_channel=EntryPointAI
+- [ ] LoRA
+  - [ ] 🎬 LoRA - Low-rank Adaption of AI Large Language Models: LoRA and QLoRA Explained Simply https://www.youtube.com/watch?v=lixMONUAjfs&ab_channel=WesRoth
+  - [ ] 🎬 LoRA & QLoRA Fine-tuning Explained In-Depth https://www.youtube.com/watch?v=t1caDsMzWBk&ab_channel=EntryPointAI
 - 🎬 Training Your Own AI Model Is Not As Hard As You (Probably) Think https://www.youtube.com/watch?v=fCUkvL0mbxI&ab_channel=Steve%28Builder.io%29
 - 🎬 How to Improve your LLM? Find the Best & Cheapest Solution https://www.youtube.com/watch?v=pHv9SsE4Mb4&ab_channel=What%27sAIbyLouis-Fran%C3%A7oisBouchard
 - 🎬 Train & Fine-Tune Language Models for Production Course by Activeloop, Towards AI & Intel Disruptor https://www.youtube.com/watch?v=iaYtuh5axJc&ab_channel=What%27sAIbyLouis-Fran%C3%A7oisBouchard
@@ -256,25 +256,25 @@ Fine-tuning
 - 🎬  Finetuning LLM | by Mervin Praison https://www.youtube.com/playlist?list=PLYQsp-tXX9w5V4TetD4vAifPmUxMgnQHv
 
 Function calling
-[] Function calling - OpenAI API ⭐️⭐️⭐️: https://platform.openai.com/docs/guides/function-calling 
+- [ ] Function calling - OpenAI API ⭐️⭐️⭐️: https://platform.openai.com/docs/guides/function-calling 
 - 白话理解 ChatGPT API 的函式呼叫功能 (function calling)｜ExplainThis  https://www.explainthis.io/zh-hans/ai/function-calling
 
 评测(Evaluating&Testing)
-[] Evaluating model performance - OpenAI API ⭐️⭐️⭐️ https://platform.openai.com/docs/guides/evals
+- [ ] Evaluating model performance - OpenAI API ⭐️⭐️⭐️ https://platform.openai.com/docs/guides/evals
 - 🎧  How Microsoft Scales Testing and Safety for Generative AI with Sarah Bird - 691 https://www.youtube.com/watch?v=-iP6wOyF_m4&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=24&ab_channel=TheTWIMLAIPodcastwithSamCharrington
 
 安全(Safety)
-[] Safety best practices - OpenAI API ⭐️⭐️⭐️ https://platform.openai.com/docs/guides/safety-best-practices
+- [ ] Safety best practices - OpenAI API ⭐️⭐️⭐️ https://platform.openai.com/docs/guides/safety-best-practices
 - 🎧  The TWIML AI Podcast with Sam Charrington
   -  How Microsoft Scales Testing and Safety for Generative AI with Sarah Bird - 691 https://www.youtube.com/watch?v=-iP6wOyF_m4&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=24&ab_channel=TheTWIMLAIPodcastwithSamCharrington
   -  Ensuring LLM Safety for Production Applications with Shreya Rajpal - 647 https://www.youtube.com/watch?v=NCe34tsVu0k&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=36&ab_channel=TheTWIMLAIPodcastwithSamCharrington
 
 
 AI Learning Roadmap
-[] 📖 How to Build Your Career in AI - by  Andrew Ng ⭐️⭐️⭐️ : https://info.deeplearning.ai/how-to-build-a-career-in-ai-book
-[] 📃 AI Engineer Roadmap ⭐️⭐️⭐️: https://roadmap.sh/ai-engineer
-[] 🎬 Advice for machine learning beginners | Andrej Karpathy and Lex Fridman ⭐️⭐️⭐️ https://www.youtube.com/watch?v=I2ZK3ngNvvI&ab_channel=LexClips
-[] Data Scientist vs. AI Engineer https://www.youtube.com/watch?v=Vxw0nE1qfZc&ab_channel=IBMTechnology
+- [ ] 📖 How to Build Your Career in AI - by  Andrew Ng ⭐️⭐️⭐️ : https://info.deeplearning.ai/how-to-build-a-career-in-ai-book
+- [ ] 📃 AI Engineer Roadmap ⭐️⭐️⭐️: https://roadmap.sh/ai-engineer
+- [ ] 🎬 Advice for machine learning beginners | Andrej Karpathy and Lex Fridman ⭐️⭐️⭐️ https://www.youtube.com/watch?v=I2ZK3ngNvvI&ab_channel=LexClips
+- [ ] Data Scientist vs. AI Engineer https://www.youtube.com/watch?v=Vxw0nE1qfZc&ab_channel=IBMTechnology
 - 🎬 How I'd Learn AI (If I Had to Start Over)  https://www.youtube.com/watch?v=TR7AGmey1C8&ab_channel=ThuVudataanalytics
 - 🎬 AI Machine Learning Roadmap: Self Study AI! https://www.youtube.com/watch?v=nznFtfgP2ks&ab_channel=Exaltitude
 - 🎬 Don’t Be An ML/AI Engineer If You’re Like This... https://www.youtube.com/watch?v=gWzfL4nJB0o&ab_channel=Exaltitude
