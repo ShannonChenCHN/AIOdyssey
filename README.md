@@ -15,10 +15,10 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 
 
 ## 学习资料(外部)
-官方文档、资源
+### 官方文档、资源
 - OpenAI
-  - [ ] OpenAI developer platform ⭐️⭐️⭐️: https://platform.openai.com/docs/overview
-  - [ ] OpenAI Cookbook ⭐️⭐️⭐️ https://cookbook.openai.com/
+  - [ ] OpenAI developer platform: https://platform.openai.com/docs/overview ⭐️⭐️⭐️
+  - [ ] OpenAI Cookbook: https://cookbook.openai.com/ ⭐️⭐️⭐️
     - [ ] Related resources from around the web | OpenAI Cookbook https://cookbook.openai.com/articles/related_resources
   - OpenAI Dev-Day 2023: Breakout Sessions! https://community.openai.com/t/openai-dev-day-2023-breakout-sessions/505213
 - Gemini
@@ -27,12 +27,12 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
   - Cookbook: https://github.com/anthropics/anthropic-cookbook
   - https://www.youtube.com/@anthropic-ai
 
-知识库
-- [ ] 📃 通往 AGI 之路 ⭐️⭐️⭐️
+### 知识库
+- [ ] 📃 通往 AGI 之路: https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e ⭐️⭐️⭐️
 - Generative AI Engineer 知識庫 - ihower's Notes https://ihower.tw/notes/generative-ai-engineer
 
-课程
-- 入门课程推荐 ⭐️⭐️⭐️
+### 课程
+- 入门课程推荐: https://waytoagi.feishu.cn/wiki/ZYtkwJQSJiLa5rkMF5scEN4Onhd?table=tblWqPFOvA24Jv6X&view=veweFm2l9w ⭐️⭐️⭐️
 - [ ] 🎬 https://www.deeplearning.ai/ ⭐️⭐️⭐️
 - 🎬 YouTube Playlist
   - [ ] Understanding AI Models | by IBM Technology https://www.youtube.com/playlist?list=PLOspHqNVtKAC-FUNMq8qjYVw6_semZHw0
@@ -45,11 +45,11 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
   - 李宏毅
   - 李沐
 
-AI
+### AI
 - IBM 出品
-  - [ ] AI Fundamentals | by IBM Technology ⭐️⭐️⭐️ https://www.youtube.com/playlist?list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF
-  [x] 🎬 AI vs Machine Learning ⭐️⭐️⭐️: https://www.youtube.com/watch?v=4RixMPF4xis&t=4s&ab_channel=IBMTechnology
-  [x] 🎬 AI, Machine Learning, Deep Learning and Generative AI Explained ⭐️⭐️⭐️ https://www.youtube.com/watch?v=qYNweeDHiyU&ab_channel=IBMTechnology 
+  - [ ] AI Fundamentals | by IBM Technology: https://www.youtube.com/playlist?list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF ⭐️⭐️⭐️
+  [x] 🎬 AI vs Machine Learning: https://www.youtube.com/watch?v=4RixMPF4xis&t=4s&ab_channel=IBMTechnology ⭐️⭐️⭐️
+  [x] 🎬 AI, Machine Learning, Deep Learning and Generative AI Explained: https://www.youtube.com/watch?v=qYNweeDHiyU&ab_channel=IBMTechnology ⭐️⭐️⭐️
   - [ ] 🎬 What are Generative AI models? https://www.youtube.com/watch?v=hfIUstzHs9A&ab_channel=IBMTechnology
   - [ ] The Evolution of AI: Traditional AI vs. Generative AI https://www.youtube.com/watch?v=SNZSm02_fpU&ab_channel=IBMTechnology
   - The 7 Types of AI - And Why We Talk (Mostly) About 3 of Them https://www.youtube.com/watch?v=XFZ-rQ8eeR8&ab_channel=IBMTechnology
@@ -68,7 +68,7 @@ AI
   - 🎬 What Is an AI Anyway? | Mustafa Suleyman | TED https://www.youtube.com/watch?v=KKNCiRWd_j0&ab_channel=TED
   - 🎬 The moment we stopped understanding AI [AlexNet] https://www.youtube.com/watch?v=UZDiGooFs54&ab_channel=WelchLabs
 
-机器学习(Machine Learning)
+### 机器学习(Machine Learning)
 - 🎬 Machine Learning Explained in 100 Seconds https://www.youtube.com/watch?v=PeMlggyqz0Y&ab_channel=Fireship
 - 🎬 IBM 出品
   - [ ] What is Machine Learning? ⭐️⭐️⭐️  https://www.youtube.com/watch?v=9gGnTQTYNaE&ab_channel=IBMTechnology
@@ -82,13 +82,13 @@ AI
 - 课程
   - Deep Learning Tutorial Videos 🔥[2024 Updated] | Simplilearn https://www.youtube.com/playlist?list=PLEiEAq2VkUUIYQ-mMRAGilfOKyWKpHSip
 
-神经网络
+### 神经网络
 - 课程
   - 🎬 Neural networks | by 3Blue1Brown · Course ⭐️⭐️⭐️ https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 - 🎬 Transformer Neural Networks - EXPLAINED! (Attention is all you need) https://www.youtube.com/watch?v=TQQlZhbC5ps&ab_channel=CodeEmporium
 - 🎬 I Built a Neural Network from Scratch https://www.youtube.com/watch?v=cAkMcPfY_Ns&ab_channel=GreenCode
 
-LLM
+### LLM
 - [ ] Goolge 出品 ⭐️⭐️⭐️
   - [ ] 🎬 Introduction to large language models https://www.youtube.com/watch?v=zizonToFXDs&ab_channel=GoogleCloudTech
   - [ ] 🎬 Transformers, explained: Understand the model behind GPT, BERT, and T5 https://www.youtube.com/watch?v=SZorAJ4I-sA&ab_channel=GoogleCloudTech
@@ -108,7 +108,8 @@ LLM
 - 🎬 [1hr Talk] Intro to Large Language Models https://www.youtube.com/watch?v=zjkBMFhNj_g&ab_channel=AndrejKarpathy
 - [ ] 通向AGI之路：大型语言模型（LLM）技术精要: https://zhuanlan.zhihu.com/p/597586623
 - 🎬 How AI Models Understand Language - Inside the World of Parameters and Tokens https://www.youtube.com/watch?v=mnqXgojQCJI&ab_channel=GenAIinplainEnglish
-ChatGPT
+
+### ChatGPT
 - [ ] 🎬 Andrej Karpathy微软Build大会精彩演讲： GPT状态和原理 - 解密OpenAI模型训练_哔哩哔哩 ⭐️⭐️⭐️： https://www.bilibili.com/video/BV1ts4y1T7UH/
 - ChatGPT Explained Completely. https://www.youtube.com/watch?v=-4Oso9-9KTQ&ab_channel=KyleHill
 - So How Does ChatGPT really work? Behind the screen! https://www.youtube.com/watch?v=WAiqNav2cRE&ab_channel=ArvinAsh
@@ -119,7 +120,8 @@ ChatGPT
 Transformers
 - 🎬 Transformers (how LLMs work) explained visually | DL5 https://www.youtube.com/watch?v=wjZofJX0v4M&ab_channel=3Blue1Brown
 - 🎬 Transformers: The best idea in AI | Andrej Karpathy and Lex Fridman ⭐️ https://www.youtube.com/watch?v=9uw3F6rndnA&t=28s&ab_channel=LexClips
-Claude
+
+### Claude
 - 官方出品 ⭐️⭐️⭐️
   - https://www.youtube.com/@anthropic-ai
     - Claude | Computer use for coding https://www.youtube.com/watch?v=vH2f7cjXjKI&ab_channel=Anthropic
@@ -136,7 +138,7 @@ Claude
 - 15 Powerful Claude Artifacts Use Cases You Should Try https://www.youtube.com/watch?v=UA2W4xTqQzs&ab_channel=SkillLeapAI
 - New ChatGPT Canvas vs. Claude Artifacts: HTML/CSS to WebGL Refactoring https://www.youtube.com/watch?v=ub-LJx9WBs8&ab_channel=EduardsRuzga
 
-AI Agent
+### AI Agent
 - [ ] 🎬 What are AI Agents? https://www.youtube.com/watch?v=F8NKVhkZZWI&ab_channel=IBMTechnology
 - 🎬 What is AI Agent? | Simple Explanation of an AI Agent https://www.youtube.com/watch?v=2-JV8UxegWE&ab_channel=codebasics
 - 🎬 AI Agents Explained: How This Changes Everything https://www.youtube.com/watch?v=obFilwqWpDI&ab_channel=BotNirvana
@@ -163,14 +165,14 @@ Langchain
   - https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction
   - Using ChatGPT with YOUR OWN Data. This is magical. (LangChain OpenAI API) https://www.youtube.com/watch?v=9AXP7tCI9PI&ab_channel=TechLead
 
-LLM 调参
+### LLM 调参
 - 模型设置 | Prompt Engineering Guide: https://www.promptingguide.ai/zh/introduction/settings
 - 用好语言模型:temperature、top-p等核心参数解析本文将介绍几个关键参数，帮助读者更好地理解和运用 temp - 掘金: https://juejin.cn/post/7304282349944160296#heading-3
 - 大模型核心参数解析(Top-k、Top-p、Temperature、frequency penalty、presence penalty)_大模型 temperature-CSDN博客: https://blog.csdn.net/u012856866/article/details/140308083
 - 從新手邁向專家：全面解析LLM中的Frequency與Presence Penalty: https://medium.com/seaniap/%E5%BE%9E%E6%96%B0%E6%89%8B%E9%82%81%E5%90%91%E5%B0%88%E5%AE%B6-%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90llm%E4%B8%AD%E7%9A%84frequency%E8%88%87presence-penalty-316e864e746f
 
 
-LLM 调优：Prompt Engineering, RAG, and Fine-tuning 
+### LLM 调优：Prompt Engineering, RAG, and Fine-tuning 
 - [ ] https://platform.openai.com/docs/guides/ ⭐️⭐️⭐️ 
 [x] 🎬 A Survey of Techniques for Maximizing LLM Performance⭐️⭐️⭐️: https://www.youtube.com/watch?v=ahnGLM-RC1Y&ab_channel=OpenAI
   - A Survey of Techniques for Maximizing LLM Performance (OpenAI DevDay) - ihower's Notes: https://ihower.tw/notes/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98-AI/2023/A+Survey+of+Techniques+for+Maximizing+LLM+Performance+(OpenAI+DevDay)
@@ -180,7 +182,8 @@ LLM 调优：Prompt Engineering, RAG, and Fine-tuning
 - 🎬 Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use https://www.youtube.com/watch?v=YVWxbHJakgg&ab_channel=EntryPointAI
 - 🎬 Fine-Tuning, RAG, or Prompt Engineering? The Ultimate LLM Showdown Explained! https://www.youtube.com/watch?v=nNSUDjbXZ1w&ab_channel=PatralekhSatyam
 - 🎬 RAG vs. Fine Tuning https://www.youtube.com/watch?v=00Q0G84kq3M&t=12s&ab_channel=IBMTechnology
-Prompt Engineering
+
+### Prompt Engineering
 - [ ] Open AI 出品
   [x] https://platform.openai.com/docs/guides/prompt-engineering ⭐️ ⭐️ ⭐️ 
     - [ ] https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api ⭐️ ⭐️ ⭐️ 
@@ -195,7 +198,7 @@ Prompt Engineering
 - https://github.com/langgptai/wonderful-prompts
 - https://github.com/dair-ai/Prompt-Engineering-Guide
 - 提示工程指南 | Prompt Engineering Guide: https://www.promptingguide.ai/zh
-- ⭐ 结构化提示词
+- [ ] 结构化提示词: https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe
 - https://learningprompt.wiki/docs/chatgpt-learning-path
 - The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts https://fka.gumroad.com/l/art-of-chatgpt-prompting
 - https://sulli.substack.com/p/chatgpt-4prompt-engineeringchatgpt
@@ -208,7 +211,8 @@ Prompt Engineering
 - 🎬 How to Make LLM Give You Exactly What You Want - Prompt Engineering https://www.youtube.com/watch?v=BfgmvZQcIsI&ab_channel=PatralekhSatyam
 - 🎬 Master the Perfect ChatGPT Prompt Formula (in just 8 minutes)! https://www.youtube.com/watch?v=jC4v5AS4RIM&ab_channel=JeffSu
 - 🎬 chatgpt 4 提示语教学 : 4个prompt engineering入门技巧提高和chatgpt的沟通效率 https://www.youtube.com/watch?v=dmb-CXgAtiI&t=1s&ab_channel=%E9%9B%AA%E8%8E%89sulliAI
-RAG
+
+### RAG
 - [ ] IBM 出品
   - [ ] 🎬 What is Retrieval-Augmented Generation (RAG)? https://www.youtube.com/watch?v=T-D1OfcDW1M&ab_channel=IBMTechnology
   - [ ] 🎬 What is Agentic RAG? https://www.youtube.com/watch?v=0z9_MhcYvcY&ab_channel=IBMTechnology
@@ -230,7 +234,7 @@ Embeddings and Vector Databases
 - 🎬 Vector databases are so hot right now. WTF are they? https://www.youtube.com/watch?v=klTvEwg3oJ4&ab_channel=Fireship
 - 🎬 OpenAI Embeddings and Vector Databases Crash Course https://www.youtube.com/watch?v=ySus5ZS0b94&ab_channel=AdrianTwarog
 
-Fine-tuning 
+### Fine-tuning 
 - [ ] https://platform.openai.com/docs/guides/fine-tuning ⭐️ ⭐️ ⭐️ 
   - [ ] https://openai.com/index/api-model-distillation/
   - [ ] https://platform.openai.com/docs/guides/distillation
@@ -255,22 +259,22 @@ Fine-tuning
 - 🎬 Fine-tuning LLMs with PEFT and LoRA https://www.youtube.com/watch?v=Us5ZFp16PaU&ab_channel=SamWitteveen
 - 🎬  Finetuning LLM | by Mervin Praison https://www.youtube.com/playlist?list=PLYQsp-tXX9w5V4TetD4vAifPmUxMgnQHv
 
-Function calling
+### Function calling
 - [ ] Function calling - OpenAI API ⭐️⭐️⭐️: https://platform.openai.com/docs/guides/function-calling 
-- 白话理解 ChatGPT API 的函式呼叫功能 (function calling)｜ExplainThis  https://www.explainthis.io/zh-hans/ai/function-calling
+- 白话理解 ChatGPT API 的函式呼叫功能 (function calling)｜ExplainThis: https://www.explainthis.io/zh-hans/ai/function-calling
 
-评测(Evaluating&Testing)
+### 评测(Evaluating&Testing)
 - [ ] Evaluating model performance - OpenAI API ⭐️⭐️⭐️ https://platform.openai.com/docs/guides/evals
 - 🎧  How Microsoft Scales Testing and Safety for Generative AI with Sarah Bird - 691 https://www.youtube.com/watch?v=-iP6wOyF_m4&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=24&ab_channel=TheTWIMLAIPodcastwithSamCharrington
 
-安全(Safety)
+### 安全(Safety)
 - [ ] Safety best practices - OpenAI API ⭐️⭐️⭐️ https://platform.openai.com/docs/guides/safety-best-practices
 - 🎧  The TWIML AI Podcast with Sam Charrington
   -  How Microsoft Scales Testing and Safety for Generative AI with Sarah Bird - 691 https://www.youtube.com/watch?v=-iP6wOyF_m4&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=24&ab_channel=TheTWIMLAIPodcastwithSamCharrington
   -  Ensuring LLM Safety for Production Applications with Shreya Rajpal - 647 https://www.youtube.com/watch?v=NCe34tsVu0k&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=36&ab_channel=TheTWIMLAIPodcastwithSamCharrington
 
 
-AI Learning Roadmap
+### AI Learning Roadmap
 - [ ] 📖 How to Build Your Career in AI - by  Andrew Ng ⭐️⭐️⭐️ : https://info.deeplearning.ai/how-to-build-a-career-in-ai-book
 - [ ] 📃 AI Engineer Roadmap ⭐️⭐️⭐️: https://roadmap.sh/ai-engineer
 - [ ] 🎬 Advice for machine learning beginners | Andrej Karpathy and Lex Fridman ⭐️⭐️⭐️ https://www.youtube.com/watch?v=I2ZK3ngNvvI&ab_channel=LexClips
@@ -282,15 +286,16 @@ AI Learning Roadmap
 - 🎬 How I’d learn ML in 2024 (if I could start over) https://www.youtube.com/watch?v=gUmagAluXpk&t=32s&ab_channel=BorisMeinardus
 - 🎬 How I'd Learn AI in 2024 (if I could start over) https://www.youtube.com/watch?v=h2FDq3agImI&ab_channel=DaveEbbelaar
 
-怎么用好 AI/AI 赋能/AI 的应用场景
+### 怎么用好 AI/AI 赋能/AI 的应用场景
 - 🎬 The AI Edge: Work Smarter, Not Harder | by Jeff Su https://www.youtube.com/playlist?list=PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR
 - 🎬 How I Made AI Assistants Do My Work For Me: CrewAI https://www.youtube.com/watch?v=kJvXT25LkwA&ab_channel=MayaAkim
 - 🎬 How AI Could Empower Any Business | Andrew Ng | TED ⭐️⭐️⭐️ https://www.youtube.com/watch?v=reUZRyXxUs4&ab_channel=TED
-- 🎬 突破个人能力天花板，和AI协作的12个范式。 https://www.youtube.com/watch?v=1RVwpv0oVxo&ab_channel=Topbook
+- 🎬 突破个人能力天花板，和AI协作的12个范式: https://www.youtube.com/watch?v=1RVwpv0oVxo&ab_channel=Topbook
 - 🎬 How to use ChatGPT to easily learn any skill you want https://www.youtube.com/watch?v=MnDudvCyWpc&ab_channel=BriDoesAI 
 - 🎬 How to use ChatGPT to learn a language: tips and prompts https://www.youtube.com/watch?v=QlLz4WV7xLU&ab_channel=SteveKaufmann-lingosteve 
 - 🎬 How To Use ChatGPT To Learn ANY Skill Quickly (Tutorial) https://www.youtube.com/watch?v=vYvOTGk7hOA&ab_channel=CharlieChang
-AI 辅助编程
+
+### AI 辅助编程
 - 🎬 GitHub Copilot Just Destroyed All AI Code Editor Startups https://www.youtube.com/watch?v=Byt6fZZBz_g&ab_channel=Melkey
 - 🎧 Supercharging Developer Productivity with ChatGPT and Claude with Simon Willison - 701 https://www.youtube.com/watch?v=CRpHNB87gRY&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=39&ab_channel=TheTWIMLAIPodcastwithSamCharrington
 - 🎬 Getting Started with Copilot in VS Code | by Visual Studio Code https://www.youtube.com/playlist?list=PLj6YeMhvp2S7rQaCLRrMnzRdkNdKnMVwg
@@ -299,11 +304,11 @@ AI 辅助编程
 - Cursor
 - https://bolt.new ⭐️⭐️⭐️
 
-AI 辅助设计
+### AI 辅助设计
 - Figma AI
   - https://www.figma.com/ai/
-  - Generate Figma Designs with AI https://www.builder.io/blog/ai-figma
-  - BEST FIGMA AI TOOLS for UI/UX Designers 2024⚡️| Saptarshi Prakash #shorts https://youtube.com/shorts/N-9YfSlPqpE?si=y2n--w2TlwzaUY6M
+  - Generate Figma Designs with AI: https://www.builder.io/blog/ai-figma
+  - BEST FIGMA AI TOOLS for UI/UX Designers 2024⚡️| Saptarshi Prakash #shorts: https://youtube.com/shorts/N-9YfSlPqpE?si=y2n--w2TlwzaUY6M
   - 🎬 Design Apps With Prompts: FIGMA AI Changes Everything https://www.youtube.com/watch?v=BcQ-qLMYwGw&ab_channel=AISamson
   - 🎬 Figma AI Launched! - I'm Impressed! | Create UI With AI With New Figma Features https://www.youtube.com/watch?v=WZ0_703Rkvc&ab_channel=PunitChawla
   - 🎬 How I built a REAL app using Figma AI in 48 hrs! (ENTIRE UX/UI Process) https://www.youtube.com/watch?v=tdvlxcSep54&ab_channel=DesignerUp
@@ -312,21 +317,21 @@ AI 辅助设计
   - 🎬 One-Click AI Web Development Tutorial - Learn how to Turn Figma Designs into Working Code using AI https://www.youtube.com/watch?v=-kLs1NGt3ys&ab_channel=freeCodeCamp.org
 
 
-开发实战
+### 开发实战
 - 🎬 IBM 出品
   - Build a Chatbot with AI in 5 minutes https://www.youtube.com/watch?v=3iGWMImiGjU&ab_channel=IBMTechnology
   - Code, Generate, Repeat: Building a Full-Stack Generative AI Application https://www.youtube.com/watch?v=2hB3XzfpGtI&ab_channel=IBMTechnology
 - 🎬 Learn AI | by Thu Vu data analytics https://www.youtube.com/playlist?list=PLbHrOSG7nVN32lSSW6TyYRZFVj7xlzukY
   - 🎬 I Analyzed My Finance With Local LLMs https://www.youtube.com/watch?v=h_GTxRFYETY&ab_channel=ThuVudataanalytics
-- 🎬 Let's build GPT: from scratch, in code, spelled out. ⭐️⭐️⭐️ https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy
+- 🎬 Let's build GPT: from scratch, in code, spelled out: https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy ⭐️⭐️⭐️
 - 🎬 Run your own AI (but private) https://www.youtube.com/watch?v=WxYC9-hBM_g&ab_channel=NetworkChuck
 - 🎬 host ALL your AI locally https://www.youtube.com/watch?v=Wjrdr0NU4Sk&ab_channel=NetworkChuck
 - 🎬 Feed Your OWN Documents to a Local Large Language Model! https://www.youtube.com/watch?v=fFgyOucIFuk&ab_channel=Dave%27sGarage
 - Set up a Local AI like ChatGPT on your own machine! https://www.youtube.com/watch?v=DYhC7nFRL5I&ab_channel=Dave%27sGarage
 - Python RAG Tutorial (with Local LLMs): AI For Your PDFs https://www.youtube.com/watch?v=2TJxpyO3ei4&ab_channel=pixegami
-- 「Agent 共学」之"谁是人类" 「WayToAGI x 阿里云」⭐️⭐️⭐️
-  - 皮皮：你的微信虚拟女友 - 李洛云
+- [ ] 「Agent 共学」之"谁是人类" 「WayToAGI x 阿里云」: https://waytoagi.feishu.cn/wiki/Gm72wS4BqixefikquThcERlgnD0
+  - [ ] 皮皮：你的微信虚拟女友 - 李洛云: https://waytoagi.feishu.cn/wiki/L5bGwX0NDiT9QAkOZUOcn3YinTd ⭐️⭐
 
-同行分享交流
+### 同行分享交流
 - 🎧 我在 Character.ai 做 Post Training｜对谈前 C.AI 模型应用算法专家 Ted | | 小宇宙 ⭐️⭐️⭐️: https://www.xiaoyuzhoufm.com/episode/67359e9843dc3a43878eaa90
 - 🎧  #17 从通用走向个人，一个不同的大模型叙事——对话Me.bot创始人陶芳波 - 出海相对论 | 小宇宙 ⭐️: https://www.xiaoyuzhoufm.com/episode/66a20afd33ddcbb53c00e7ad
