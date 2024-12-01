@@ -5,13 +5,13 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 
 
 ## 知识体系
-学习重点：LLM，fine-tuning
-学习目标：让 bot 学会某个人说话的风格
-学习方法：
-- 带着目标和问题学习
-- 多动手：practice, practice, practice
-- 费曼学习法：包括写下来、写博客公众号、讲给别人听、做分享
-- 《软件能》的“十步学习法”：https://time.geekbang.org/column/article/127656
+- 学习重点：LLM，fine-tuning
+- 学习目标：让 bot 学会某个人说话的风格
+- 学习方法：
+  - 带着目标和问题学习
+  - 多动手：practice, practice, practice
+  - 费曼学习法：包括写下来、写博客公众号、讲给别人听、做分享
+  - 《软件能》的“十步学习法”：https://time.geekbang.org/column/article/127656
 
 
 ## 学习资料(外部)
