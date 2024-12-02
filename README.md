@@ -31,6 +31,28 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
   - Cookbook: https://github.com/anthropics/anthropic-cookbook
   - https://www.youtube.com/@anthropic-ai
 
+ ### 书籍
+ 
+技术原理类
+- 《GPT 图解》(黄佳 著) ⭐️⭐️⭐️
+- 《Python 自然语言处理》(Jalaj Thanaki 著) https://book.douban.com/subject/30350007/
+- 《这就是 ChatGPT》(Stephen Wolfram 著) https://book.douban.com/subject/36449803/ ⭐️⭐️⭐️
+ - 英文版：What Is ChatGPT Doing ... and Why Does It Work? https://book.douban.com/subject/36325029/
+- 《ChatGPT原理与应用开发》https://book.douban.com/subject/36789967/ ⭐️⭐️⭐️
+- 《大模型应用解决方案 : 基于GPT-3、ChatGPT、GPT-4等Transformer架构的自然语言处理》https://book.douban.com/subject/36696373/
+- 《自然语言处理入门》(何晗 著) https://book.douban.com/subject/34856701/
+- 《大模型应用开发极简入门》https://book.douban.com/subject/36764820/
+- 《数学之美》(吴军 著) https://www.douban.com/doubanapp/dispatch?uri=/book/35033507 ⭐️⭐️⭐️
+
+应用实践类
+- 《ChatGPT营销实践》https://book.douban.com/subject/36954824/
+- 《AI商业广告设计实战108招》https://book.douban.com/subject/36894358/
+- 《AI绘画与摄影实战108招：ChatGPT+Midjourney+文心一格》https://book.douban.com/subject/36894373/
+- 《AI短视频生成与剪辑实战108招：ChatGPT+剪映》https://book.douban.com/subject/36889464/
+- 《ChatGPT+AI文案写作实战108招》https://book.douban.com/subject/36894218/
+- 《智慧共生 ChatGPT与AIGC生产力工具实践》https://book.douban.com/subject/36427721/
+- 《AI重塑演讲力：ChatGPT 10倍提升演讲写作与表达》https://book.douban.com/subject/36947415/
+
 ### 知识库
 - [ ] 📃 通往 AGI 之路: https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e ⭐️⭐️⭐️
 - Generative AI Engineer 知識庫 - ihower's Notes https://ihower.tw/notes/generative-ai-engineer
@@ -49,13 +71,6 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
   - 李宏毅
   - 李沐
 
- ### 书籍
- - 《GPT 图解》(黄佳 著)
- - 《Python 自然语言处理》(Jalaj Thanaki 著)
- - 《这就是 ChatGPT》(Stephen Wolfram 著)
- - 《自然语言处理入门》(何晗 著)
- - 《数学之美》(吴军 著)
- - 《大模型应用开发极简入门》
 
 
 ### AI
