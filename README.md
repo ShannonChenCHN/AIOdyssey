@@ -143,6 +143,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - ChatGPT Explained Completely. https://www.youtube.com/watch?v=-4Oso9-9KTQ&ab_channel=KyleHill
 - How does ChatGPT work? Explained by Deep-Fake Ryan Gosling. https://www.youtube.com/watch?v=xU_MFS_ACrU&ab_channel=HowToFly
 - So How Does ChatGPT really work? Behind the screen! https://www.youtube.com/watch?v=WAiqNav2cRE&ab_channel=ArvinAsh
+  - The Shockingly Simple Way the BRAIN of an AI Works! It's Genius! https://www.youtube.com/watch?v=NxTTXuUl-Lc&ab_channel=ArvinAsh
 - [ ] 📖 What Is ChatGPT Doing … and Why Does It Work? — Stephen Wolfram Writings（微信读书上有中文版）⭐️⭐️⭐️ https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
   - [ ] 🎬 What is ChatGPT doing...and why does it work? Wolfram：https://www.youtube.com/watch?v=flXrLGPY3SU&ab_channel=Wolfram
   - [ ] 🎬 How ChatGPT works | Stephen Wolfram and Lex Fridman https://www.youtube.com/watch?v=Ic88oVqr66w&ab_channel=LexClips
