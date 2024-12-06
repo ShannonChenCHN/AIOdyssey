@@ -169,6 +169,13 @@ Transformers
 - 15 Powerful Claude Artifacts Use Cases You Should Try https://www.youtube.com/watch?v=UA2W4xTqQzs&ab_channel=SkillLeapAI
 - New ChatGPT Canvas vs. Claude Artifacts: HTML/CSS to WebGL Refactoring https://www.youtube.com/watch?v=ub-LJx9WBs8&ab_channel=EduardsRuzga
 
+
+### 开源模型
+- https://github.com/meta-llama/llama3
+- https://github.com/microsoft/Phi-3CookBook
+- https://github.com/ollama/ollama
+- CharacterGLM 开源模型: https://zhipu-ai.feishu.cn/wiki/MlRiwU8NXi3A3zkpHNdcvcUmnCg
+
 ### AI Agent
 - [ ] 🎬 What are AI Agents? https://www.youtube.com/watch?v=F8NKVhkZZWI&ab_channel=IBMTechnology
 - 🎬 What is AI Agent? | Simple Explanation of an AI Agent https://www.youtube.com/watch?v=2-JV8UxegWE&ab_channel=codebasics
