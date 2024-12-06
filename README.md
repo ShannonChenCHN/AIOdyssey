@@ -141,6 +141,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 ### ChatGPT
 - [ ] 🎬 Andrej Karpathy微软Build大会精彩演讲： GPT状态和原理 - 解密OpenAI模型训练_哔哩哔哩 ⭐️⭐️⭐️： https://www.bilibili.com/video/BV1ts4y1T7UH/
 - ChatGPT Explained Completely. https://www.youtube.com/watch?v=-4Oso9-9KTQ&ab_channel=KyleHill
+- How does ChatGPT work? Explained by Deep-Fake Ryan Gosling. https://www.youtube.com/watch?v=xU_MFS_ACrU&ab_channel=HowToFly
 - So How Does ChatGPT really work? Behind the screen! https://www.youtube.com/watch?v=WAiqNav2cRE&ab_channel=ArvinAsh
 - [ ] 📖 What Is ChatGPT Doing … and Why Does It Work? — Stephen Wolfram Writings（微信读书上有中文版）⭐️⭐️⭐️ https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
   - [ ] 🎬 What is ChatGPT doing...and why does it work? Wolfram：https://www.youtube.com/watch?v=flXrLGPY3SU&ab_channel=Wolfram
