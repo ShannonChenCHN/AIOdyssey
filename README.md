@@ -38,8 +38,8 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - 《GPT 图解》(黄佳 著) ⭐️⭐️⭐️
 - 《Python 自然语言处理》(Jalaj Thanaki 著) https://book.douban.com/subject/30350007/
 - 《这就是 ChatGPT》(Stephen Wolfram 著) https://book.douban.com/subject/36449803/ ⭐️⭐️⭐️
- - 英文版：What Is ChatGPT Doing ... and Why Does It Work? https://book.douban.com/subject/36325029/
-- 《ChatGPT原理与应用开发》https://book.douban.com/subject/36789967/ ⭐️⭐️⭐️
+  - 英文版：What Is ChatGPT Doing ... and Why Does It Work? https://book.douban.com/subject/36325029/
+- 《ChatGPT原理与应用开发》https://book.douban.com/subject/36789967/ 
 - 《大模型应用解决方案 : 基于GPT-3、ChatGPT、GPT-4等Transformer架构的自然语言处理》https://book.douban.com/subject/36696373/
 - 《自然语言处理入门》(何晗 著) https://book.douban.com/subject/34856701/
 - 《大模型应用开发极简入门》https://book.douban.com/subject/36764820/
