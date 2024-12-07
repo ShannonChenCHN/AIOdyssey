@@ -372,6 +372,7 @@ Embeddings and Vector Databases
 - 🎬 How To Use ChatGPT To Learn ANY Skill Quickly (Tutorial) https://www.youtube.com/watch?v=vYvOTGk7hOA&ab_channel=CharlieChang
 
 ### AI 辅助编程
+- Best AI Coding Tools for Developers in 2024: https://www.youtube.com/watch?v=-Aw37UyTK7w&ab_channel=Codevolution
 - Cursor: https://www.cursor.com/
    - Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447: https://www.youtube.com/watch?v=oFfVt3S51T4&ab_channel=LexFridman
    - Will AI replace programmers? | Cursor Team and Lex Fridman：https://www.youtube.com/watch?v=reH9VRMPRpY&ab_channel=LexClips
