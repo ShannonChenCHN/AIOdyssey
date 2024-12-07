@@ -30,7 +30,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
   - “这个是 GPT 官方分享训练过程，注意 PPT 里面的文字、表格信息量也非常大。试着暂停，然后去理解每一句话、每一个数字的含义。 ”
   - “Massively insightful talk by Andrej… He goes over how GPT is trained, gives some love to LLaMA, and offers some prompting tips. MUST WATCH!!!”
   - This video is one of many sessions delivered at the Microsoft Build 2023 event. | In this session, you will hear from Andrej Karpathy on the training pipeline of GPT assistants like ChatGPT, from tokenization to pretraining, supervised finetuning, and Reinforcement Learning from Human Feedback (RLHF). Dive deeper into practical techniques and mental models for the effective use of these models, including prompting strategies, finetuning, the rapidly growing ecosystem of tools, and their future extensions. | Andrej Karpathy is a Slovak-Canadian computer scientist who served as the director of artificial intelligence and Autopilot Vision at Tesla. He currently works for OpenAI, where he specializes in deep learning and computer vision.
-
+- Instruct GPT: https://openai.com/research/instruction-following （最接近 GPT-3.5 的一篇论文）
 
 ### 官方文档、资源
 - OpenAI
