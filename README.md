@@ -182,6 +182,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - [ ] 📖 What Is ChatGPT Doing … and Why Does It Work? — Stephen Wolfram Writings（微信读书上有中文版）⭐️⭐️⭐️ https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
   - [ ] 🎬 What is ChatGPT doing...and why does it work? Wolfram：https://www.youtube.com/watch?v=flXrLGPY3SU&ab_channel=Wolfram
   - [ ] 🎬 How ChatGPT works | Stephen Wolfram and Lex Fridman https://www.youtube.com/watch?v=Ic88oVqr66w&ab_channel=LexClips
+- 🎬 https://youtu.be/uCIa6V4uF84?si=vNw6q5DHAq90qevG
 - 🎬 How ChatGPT Works Technically | ChatGPT Architecture https://www.youtube.com/watch?v=bSvTVREwSNw&ab_channel=ByteByteGo
 Transformers
 - 🎬 How ChatGPT is Trained: https://www.youtube.com/watch?v=VPRSBzXzavo&ab_channel=AriSeff
