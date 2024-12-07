@@ -32,10 +32,11 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
   - This video is one of many sessions delivered at the Microsoft Build 2023 event. | In this session, you will hear from Andrej Karpathy on the training pipeline of GPT assistants like ChatGPT, from tokenization to pretraining, supervised finetuning, and Reinforcement Learning from Human Feedback (RLHF). Dive deeper into practical techniques and mental models for the effective use of these models, including prompting strategies, finetuning, the rapidly growing ecosystem of tools, and their future extensions. | Andrej Karpathy is a Slovak-Canadian computer scientist who served as the director of artificial intelligence and Autopilot Vision at Tesla. He currently works for OpenAI, where he specializes in deep learning and computer vision.
 - Instruct GPT: https://openai.com/research/instruction-following （最接近 GPT-3.5 的一篇论文）
 - 斯坦福的人工智能小镇论文
-   - 逼真到离谱！1000个人类「克隆」进西部世界，AI相似度85%细节太炸裂 ⭐️
-     - 论文：https://arxiv.org/abs/2411.10109
-   - 爆火论文打造《西部世界》雏形：25个AI智能体，在虚拟小镇自由成长 ⭐️
+   - 爆火论文打造《西部世界》雏形：25个AI智能体，在虚拟小镇自由成长：https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650873616&idx=1&sn=966d427ec1675f3a2c5f439d75f5ca65
      - 论文：https://arxiv.org/abs/2304.03442
+   - 逼真到离谱！1000个人类「克隆」进西部世界，AI相似度85%细节太炸裂：https://mp.weixin.qq.com/s/FKLCKHhP7xgYArLISDdiaw
+     - 论文：https://arxiv.org/abs/2411.10109
+- 各大 LLM 官方文档
 
 ### 官方文档、资源
 - OpenAI
