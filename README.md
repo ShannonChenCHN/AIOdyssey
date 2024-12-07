@@ -214,7 +214,7 @@ Transformers
 - https://github.com/ollama/ollama
 - CharacterGLM 开源模型: https://zhipu-ai.feishu.cn/wiki/MlRiwU8NXi3A3zkpHNdcvcUmnCg
 
-### AI Agent
+### AI Agent，AI 应用开发工具/平台
 - [ ] 🎬 What are AI Agents? https://www.youtube.com/watch?v=F8NKVhkZZWI&ab_channel=IBMTechnology
 - 🎬 What is AI Agent? | Simple Explanation of an AI Agent https://www.youtube.com/watch?v=2-JV8UxegWE&ab_channel=codebasics
 - 🎬 AI Agents Explained: How This Changes Everything https://www.youtube.com/watch?v=obFilwqWpDI&ab_channel=BotNirvana
@@ -229,7 +229,10 @@ Transformers
 - 🎬 Build Anything with Claude Agents, Here’s How  https://www.youtube.com/watch?v=5CmAKm1wWW0&ab_channel=DavidOndrej
 - 课程
   - 🎬 LLM Agents MOOC by Berkeley RDI Center on Decentralization & AI https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc
-Langchain
+- GPTs必学指南：从基础到高级 | 如何用Action打造AgentGPT，手把手教程！https://www.youtube.com/watch?v=ZtVh2RDFSkQ&ab_channel=AI%E5%AD%A6%E9%95%BF%E5%B0%8F%E6%9E%97
+
+
+#### Langchain
 - 🎬 IBM 出品
   - [ ] What is LangChain? https://www.youtube.com/watch?v=1bUy-1hGZpI&ab_channel=IBMTechnology
   - LangChain vs LangGraph: A Tale of Two Frameworks https://www.youtube.com/watch?v=qAF1NjEVHhY&ab_channel=IBMTechnology
