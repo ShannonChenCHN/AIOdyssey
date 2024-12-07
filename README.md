@@ -376,6 +376,10 @@ Embeddings and Vector Databases
 - Cursor: https://www.cursor.com/
    - Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447: https://www.youtube.com/watch?v=oFfVt3S51T4&ab_channel=LexFridman
    - Will AI replace programmers? | Cursor Team and Lex Fridman：https://www.youtube.com/watch?v=reH9VRMPRpY&ab_channel=LexClips
+   - The World's Most Powerful AI Coding Tool—Cursor: Everyone Can Be a Programmer: https://www.youtube.com/watch?v=R9JIi2zMNHA&ab_channel=AI%E8%BF%9B%E5%8C%96%E8%AE%BA-%E8%8A%B1%E7%94%9F
+   - Cursor AI tutorial for beginners: https://www.youtube.com/watch?v=gqUQbjsYZLQ&ab_channel=GregIsenberg
+   - How To Use Cursor AI For Beginners: https://www.youtube.com/watch?v=Rgz6mX93C4Y&ab_channel=CorbinBrown
+   - Coding with Cursor AI | Is this the Future of Coding?! https://www.youtube.com/watch?v=JLJtuEDcO1g&ab_channel=TiffInTech
 - GitHub Copilot
    - 🎬 GitHub Copilot Just Destroyed All AI Code Editor Startups https://www.youtube.com/watch?v=Byt6fZZBz_g&ab_channel=Melkey
 - Claude vs ChatGPT
