@@ -37,6 +37,9 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
    - 逼真到离谱！1000个人类「克隆」进西部世界，AI相似度85%细节太炸裂：https://mp.weixin.qq.com/s/FKLCKHhP7xgYArLISDdiaw
      - 论文：https://arxiv.org/abs/2411.10109
 - 各大 LLM 官方文档
+- 📖 What Is ChatGPT Doing … and Why Does It Work? — Stephen Wolfram Writings（微信读书上有中文版）⭐️⭐️⭐️ https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+  - 🎬 What is ChatGPT doing...and why does it work? Wolfram：https://www.youtube.com/watch?v=flXrLGPY3SU&ab_channel=Wolfram
+  - 🎬 How ChatGPT works | Stephen Wolfram and Lex Fridman https://www.youtube.com/watch?v=Ic88oVqr66w&ab_channel=LexClips
 
 ### 官方文档、资源
 - OpenAI
