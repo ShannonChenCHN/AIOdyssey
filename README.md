@@ -42,9 +42,10 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
   - 🎬 How ChatGPT works | Stephen Wolfram and Lex Fridman https://www.youtube.com/watch?v=Ic88oVqr66w&ab_channel=LexClips
 - 🎬 A Survey of Techniques for Maximizing LLM Performance: https://www.youtube.com/watch?v=ahnGLM-RC1Y&ab_channel=OpenAI
 - Roadmap
+   - 🎬 Advice for students by Andrej Karpathy: https://youtu.be/_au3yw46lcg?t=794&si=GLS7zZExauOu0nrk
+   - 🎬 Advice for machine learning beginners | Andrej Karpathy and Lex Fridman: https://www.youtube.com/watch?v=I2ZK3ngNvvI&ab_channel=LexClips
    - 📖 How to Build Your Career in AI - by  Andrew Ng: https://info.deeplearning.ai/how-to-build-a-career-in-ai-book
    - 📃 AI Engineer Roadmap: https://roadmap.sh/ai-engineer
-   -  🎬 Advice for machine learning beginners | Andrej Karpathy and Lex Fridman: https://www.youtube.com/watch?v=I2ZK3ngNvvI&ab_channel=LexClips
 -  书（可以先扫一眼，快速浏览）
    - 📖 《GPT 图解》(黄佳 著)
 - 课程（可以先扫一眼，快速浏览）
