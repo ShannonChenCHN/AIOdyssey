@@ -46,6 +46,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
    - 📃 AI Engineer Roadmap: https://roadmap.sh/ai-engineer
    -  🎬 Advice for machine learning beginners | Andrej Karpathy and Lex Fridman: https://www.youtube.com/watch?v=I2ZK3ngNvvI&ab_channel=LexClips
 - 📖 《GPT 图解》(黄佳 著)
+- WaytoAGI 推荐的课程合辑(左侧有分类)：https://waytoagi.feishu.cn/wiki/ZYtkwJQSJiLa5rkMF5scEN4Onhd?table=tblWqPFOvA24Jv6X&view=veweFm2l9w
 
 
 ### 官方文档、资源
