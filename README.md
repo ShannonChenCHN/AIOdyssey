@@ -149,6 +149,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - 🎬 [1hr Talk] Intro to Large Language Models https://www.youtube.com/watch?v=zjkBMFhNj_g&ab_channel=AndrejKarpathy
 - [ ] 通向AGI之路：大型语言模型（LLM）技术精要: https://zhuanlan.zhihu.com/p/597586623
 - 🎬 How AI Models Understand Language - Inside the World of Parameters and Tokens https://www.youtube.com/watch?v=mnqXgojQCJI&ab_channel=GenAIinplainEnglish
+- 🎬 Large Language Models from scratch: https://www.youtube.com/watch?v=lnA9DMvHtfI&ab_channel=Graphicsin5Minutes
 
 ### ChatGPT
 - [ ] 🎬 Andrej Karpathy微软Build大会精彩演讲： GPT状态和原理 - 解密OpenAI模型训练_哔哩哔哩 ⭐️⭐️⭐️： https://www.bilibili.com/video/BV1ts4y1T7UH/
