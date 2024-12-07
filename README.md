@@ -20,6 +20,17 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 
 ## 学习资料
 
+### 必读🚀
+- 李沐老师的GPT，GPT-2，GPT-3 论文精读视频：https://www.bilibili.com/video/BV1AF411b7xQ
+   - 视频中提到的论文：
+     - GPT-1: Improving Language Understanding by Generative Pre-Training: https://paperswithcode.com/paper/improving-language-understanding-by
+     - GPT-2: Language Models are Unsupervised Multitask Learners: https://paperswithcode.com/paper/language-models-are-unsupervised-multitask
+     - GPT-3: Language Models are Few-Shot Learners: https://arxiv.org/abs/2304.03442
+- State of GPT by Andrej Karpathy (Microsoft Build 2023): https://www.youtube.com/watch?v=bZQun8Y4L2A&ab_channel=MicrosoftDeveloper
+  - “这个是 GPT 官方分享训练过程，注意 PPT 里面的文字、表格信息量也非常大。试着暂停，然后去理解每一句话、每一个数字的含义。 ”
+  - “Massively insightful talk by Andrej… He goes over how GPT is trained, gives some love to LLaMA, and offers some prompting tips. MUST WATCH!!!”
+
+
 ### 官方文档、资源
 - OpenAI
   - [ ] OpenAI developer platform: https://platform.openai.com/docs/overview ⭐️⭐️⭐️
