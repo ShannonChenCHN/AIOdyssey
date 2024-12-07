@@ -160,6 +160,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
   - [ ] 🎬 How ChatGPT works | Stephen Wolfram and Lex Fridman https://www.youtube.com/watch?v=Ic88oVqr66w&ab_channel=LexClips
 - 🎬 How ChatGPT Works Technically | ChatGPT Architecture https://www.youtube.com/watch?v=bSvTVREwSNw&ab_channel=ByteByteGo
 Transformers
+- 🎬 How ChatGPT is Trained: https://www.youtube.com/watch?v=VPRSBzXzavo&ab_channel=AriSeff
 - 🎬 Transformers (how LLMs work) explained visually | DL5 https://www.youtube.com/watch?v=wjZofJX0v4M&ab_channel=3Blue1Brown
 - 🎬 Transformers: The best idea in AI | Andrej Karpathy and Lex Fridman ⭐️ https://www.youtube.com/watch?v=9uw3F6rndnA&t=28s&ab_channel=LexClips
 
