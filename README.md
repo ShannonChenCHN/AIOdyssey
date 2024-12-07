@@ -372,13 +372,17 @@ Embeddings and Vector Databases
 - 🎬 How To Use ChatGPT To Learn ANY Skill Quickly (Tutorial) https://www.youtube.com/watch?v=vYvOTGk7hOA&ab_channel=CharlieChang
 
 ### AI 辅助编程
-- 🎬 GitHub Copilot Just Destroyed All AI Code Editor Startups https://www.youtube.com/watch?v=Byt6fZZBz_g&ab_channel=Melkey
-- 🎧 Supercharging Developer Productivity with ChatGPT and Claude with Simon Willison - 701 https://www.youtube.com/watch?v=CRpHNB87gRY&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=39&ab_channel=TheTWIMLAIPodcastwithSamCharrington
-- 🎬 Getting Started with Copilot in VS Code | by Visual Studio Code https://www.youtube.com/playlist?list=PLj6YeMhvp2S7rQaCLRrMnzRdkNdKnMVwg
-- 🎬 Why Are Programmers Switching from ChatGPT to Claude 3.5 https://www.youtube.com/watch?v=umiRfFvKSGM&ab_channel=CodexCommunity
-- 🎬 Claude vs GPT vs o1: Which AI is best at programming? | Cursor Team and Lex Fridman https://www.youtube.com/watch?v=vn8kDYNYfXA&ab_channel=LexClips
-- Cursor
-- https://bolt.new ⭐️⭐️⭐️
+- Cursor: https://www.cursor.com/
+   - Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447: https://www.youtube.com/watch?v=oFfVt3S51T4&ab_channel=LexFridman
+   - Will AI replace programmers? | Cursor Team and Lex Fridman：https://www.youtube.com/watch?v=reH9VRMPRpY&ab_channel=LexClips
+- GitHub Copilot
+   - 🎬 GitHub Copilot Just Destroyed All AI Code Editor Startups https://www.youtube.com/watch?v=Byt6fZZBz_g&ab_channel=Melkey
+- Claude vs ChatGPT
+   - 🎧 Supercharging Developer Productivity with ChatGPT and Claude with Simon Willison - 701 https://www.youtube.com/watch?v=CRpHNB87gRY&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=39&ab_channel=TheTWIMLAIPodcastwithSamCharrington
+   - 🎬 Why Are Programmers Switching from ChatGPT to Claude 3.5 https://www.youtube.com/watch?v=umiRfFvKSGM&ab_channel=CodexCommunity
+   - 🎬 Claude vs GPT vs o1: Which AI is best at programming? | Cursor Team and Lex Fridman https://www.youtube.com/watch?v=vn8kDYNYfXA&ab_channel=LexClips
+- 🎬 合辑 Getting Started with Copilot in VS Code | by Visual Studio Code: https://www.youtube.com/playlist?list=PLj6YeMhvp2S7rQaCLRrMnzRdkNdKnMVwg
+- https://bolt.new 
 
 ### AI 辅助设计
 - Figma AI
