@@ -20,7 +20,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 
 ## 学习资料
 
-### 必读🚀
+### 必读（可以先扫一眼，快速浏览）🚀
 - 李沐老师的GPT，GPT-2，GPT-3 论文精读视频：https://www.bilibili.com/video/BV1AF411b7xQ
    - 视频中提到的论文：
      - GPT-1: Improving Language Understanding by Generative Pre-Training: https://paperswithcode.com/paper/improving-language-understanding-by
@@ -36,7 +36,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
      - 论文：https://arxiv.org/abs/2304.03442
    - 逼真到离谱！1000个人类「克隆」进西部世界，AI相似度85%细节太炸裂：https://mp.weixin.qq.com/s/FKLCKHhP7xgYArLISDdiaw
      - 论文：https://arxiv.org/abs/2411.10109
-- 各大 LLM 官方文档
+- 各大 LLM 官方文档（可以先扫一眼，快速浏览）
 - 📖 《What Is ChatGPT Doing … and Why Does It Work?》(By Stephen Wolfram Writings)（微信读书上有中文版）: https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
   - 🎬 What is ChatGPT doing...and why does it work? Wolfram：https://www.youtube.com/watch?v=flXrLGPY3SU&ab_channel=Wolfram
   - 🎬 How ChatGPT works | Stephen Wolfram and Lex Fridman https://www.youtube.com/watch?v=Ic88oVqr66w&ab_channel=LexClips
@@ -45,9 +45,13 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
    - 📖 How to Build Your Career in AI - by  Andrew Ng: https://info.deeplearning.ai/how-to-build-a-career-in-ai-book
    - 📃 AI Engineer Roadmap: https://roadmap.sh/ai-engineer
    -  🎬 Advice for machine learning beginners | Andrej Karpathy and Lex Fridman: https://www.youtube.com/watch?v=I2ZK3ngNvvI&ab_channel=LexClips
-- 📖 《GPT 图解》(黄佳 著)
-- WaytoAGI 推荐的课程合辑(左侧有分类)：https://waytoagi.feishu.cn/wiki/ZYtkwJQSJiLa5rkMF5scEN4Onhd?table=tblWqPFOvA24Jv6X&view=veweFm2l9w
-- 通向AGI之路：大型语言模型（LLM）技术精要(非必读，但是有空的时候推荐阅读): https://zhuanlan.zhihu.com/p/597586623
+-  书（可以先扫一眼，快速浏览）
+   - 📖 《GPT 图解》(黄佳 著)
+- 课程（可以先扫一眼，快速浏览）
+   - WaytoAGI 推荐的课程合辑(左侧有分类)：https://waytoagi.feishu.cn/wiki/ZYtkwJQSJiLa5rkMF5scEN4Onhd?table=tblWqPFOvA24Jv6X&view=veweFm2l9w
+   - https://www.deeplearning.ai/
+- 非必读，但是有空的时候推荐阅读
+   - 通向AGI之路：大型语言模型（LLM）技术精要: https://zhuanlan.zhihu.com/p/597586623
 
 
 ### 官方文档、资源
