@@ -37,9 +37,16 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
    - 逼真到离谱！1000个人类「克隆」进西部世界，AI相似度85%细节太炸裂：https://mp.weixin.qq.com/s/FKLCKHhP7xgYArLISDdiaw
      - 论文：https://arxiv.org/abs/2411.10109
 - 各大 LLM 官方文档
-- 📖 What Is ChatGPT Doing … and Why Does It Work? — Stephen Wolfram Writings（微信读书上有中文版）⭐️⭐️⭐️ https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+- 📖 《What Is ChatGPT Doing … and Why Does It Work?》(By Stephen Wolfram Writings)（微信读书上有中文版）: https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
   - 🎬 What is ChatGPT doing...and why does it work? Wolfram：https://www.youtube.com/watch?v=flXrLGPY3SU&ab_channel=Wolfram
   - 🎬 How ChatGPT works | Stephen Wolfram and Lex Fridman https://www.youtube.com/watch?v=Ic88oVqr66w&ab_channel=LexClips
+- 🎬 A Survey of Techniques for Maximizing LLM Performance: https://www.youtube.com/watch?v=ahnGLM-RC1Y&ab_channel=OpenAI
+- Roadmap
+   - 📖 How to Build Your Career in AI - by  Andrew Ng: https://info.deeplearning.ai/how-to-build-a-career-in-ai-book
+   - 📃 AI Engineer Roadmap: https://roadmap.sh/ai-engineer
+   -  🎬 Advice for machine learning beginners | Andrej Karpathy and Lex Fridman: https://www.youtube.com/watch?v=I2ZK3ngNvvI&ab_channel=LexClips
+- 📖 《GPT 图解》(黄佳 著)
+
 
 ### 官方文档、资源
 - OpenAI
@@ -156,7 +163,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - 🎬 Large Language Models explained briefly https://www.youtube.com/watch?v=LPZh9BOjkQs&ab_channel=3Blue1Brown
 - 🎬 LLMs (Large Language Models) by Sam Witteveen https://www.youtube.com/playlist?list=PL8motc6AQftkp6hksbpzRps_NQvEKYOky
 - 🎬 [1hr Talk] Intro to Large Language Models https://www.youtube.com/watch?v=zjkBMFhNj_g&ab_channel=AndrejKarpathy
-- [ ] 通向AGI之路：大型语言模型（LLM）技术精要: https://zhuanlan.zhihu.com/p/597586623
+- [ ] 通向AGI之路：大型语言模型（LLM）技术精要: https://zhuanlan.zhihu.com/p/597586623 ⭐️
 - 🎬 How AI Models Understand Language - Inside the World of Parameters and Tokens https://www.youtube.com/watch?v=mnqXgojQCJI&ab_channel=GenAIinplainEnglish
 - 🎬 Large Language Models from scratch: https://www.youtube.com/watch?v=lnA9DMvHtfI&ab_channel=Graphicsin5Minutes
 
