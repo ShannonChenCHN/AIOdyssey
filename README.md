@@ -107,7 +107,8 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
   - 李宏毅
   - 李沐
 
-
+### 平台、工具
+- TABLUM’s LLM Explorer: https://llm.extractum.io/
 
 ### AI
 - IBM 出品
