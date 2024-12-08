@@ -245,6 +245,10 @@ Transformers
   - Using ChatGPT with YOUR OWN Data. This is magical. (LangChain OpenAI API) https://www.youtube.com/watch?v=9AXP7tCI9PI&ab_channel=TechLead
 
 ### LLM 调参
+- https://towardsdatascience.com/guide-to-chatgpts-advanced-settings-top-p-frequency-penalties-temperature-and-more-b70bae848069
+- https://medium.com/@KTAsim/frequency-vs-presence-penalty-whats-the-difference-openai-api-51b0c4a7229e
+- https://community.openai.com/t/cheat-sheet-mastering-temperature-and-top-p-in-chatgpt-api/172683
+- https://learnprompting.org/docs/intermediate/configuration_hyperparameters?srsltid=AfmBOoq_feIDTZzNmu4-GfGC4Ddid1BNMPOOqS0PL2Aqwn7kat2RVYhh
 - 模型设置 | Prompt Engineering Guide: https://www.promptingguide.ai/zh/introduction/settings
 - 用好语言模型:temperature、top-p等核心参数解析本文将介绍几个关键参数，帮助读者更好地理解和运用 temp - 掘金: https://juejin.cn/post/7304282349944160296#heading-3
 - 大模型核心参数解析(Top-k、Top-p、Temperature、frequency penalty、presence penalty)_大模型 temperature-CSDN博客: https://blog.csdn.net/u012856866/article/details/140308083
