@@ -264,7 +264,7 @@ Transformers
 
 ### Prompt Engineering
 - [ ] Open AI 出品
-   [x] https://platform.openai.com/docs/guides/prompt-engineering ⭐️ ⭐️ ⭐️ 
+   - [ ] https://platform.openai.com/docs/guides/prompt-engineering ⭐️ ⭐️ ⭐️ 
       - [ ] https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api ⭐️ ⭐️ ⭐️ 
 - [ ] Claude 出品
    - [ ] AI prompt engineering: A deep dive https://www.youtube.com/watch?v=T9aRN5JkmL8&ab_channel=Anthropic
