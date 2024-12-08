@@ -264,13 +264,13 @@ Transformers
 
 ### Prompt Engineering
 - [ ] Open AI 出品
-  [x] https://platform.openai.com/docs/guides/prompt-engineering ⭐️ ⭐️ ⭐️ 
-    - [ ] https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api ⭐️ ⭐️ ⭐️ 
+   [x] https://platform.openai.com/docs/guides/prompt-engineering ⭐️ ⭐️ ⭐️ 
+      - [ ] https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api ⭐️ ⭐️ ⭐️ 
 - [ ] Claude 出品
-  - [ ] AI prompt engineering: A deep dive https://www.youtube.com/watch?v=T9aRN5JkmL8&ab_channel=Anthropic
+   - [ ] AI prompt engineering: A deep dive https://www.youtube.com/watch?v=T9aRN5JkmL8&ab_channel=Anthropic
 - [ ] 🎬 IBM 出品
-  - [ ] What is Prompt Tuning? https://www.youtube.com/watch?v=yu27PWzJI_Y&ab_channel=IBMTechnology
-  - [ ] 🎬 4 Methods of Prompt Engineering https://www.youtube.com/watch?v=1c9iyoVIwDs&ab_channel=IBMTechnology
+   - [ ] What is Prompt Tuning? https://www.youtube.com/watch?v=yu27PWzJI_Y&ab_channel=IBMTechnology
+   - [ ] 🎬 4 Methods of Prompt Engineering https://www.youtube.com/watch?v=1c9iyoVIwDs&ab_channel=IBMTechnology
 - [ ] 🎧  Mental Models for Advanced ChatGPT Prompting with Riley Goodside - 652  https://www.youtube.com/watch?v=fMUNDFTGVXc&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=5&ab_channel=TheTWIMLAIPodcastwithSamCharrington
 - https://github.com/f/awesome-chatgpt-prompts
 - https://github.com/EmbraceAGI/awesome-chatgpt-zh
