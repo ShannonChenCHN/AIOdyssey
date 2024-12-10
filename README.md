@@ -46,6 +46,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
    - 🎬 Advice for machine learning beginners | Andrej Karpathy and Lex Fridman: https://www.youtube.com/watch?v=I2ZK3ngNvvI&ab_channel=LexClips
    - 📖 How to Build Your Career in AI - by  Andrew Ng: https://info.deeplearning.ai/how-to-build-a-career-in-ai-book
    - 📃 AI Engineer Roadmap: https://roadmap.sh/ai-engineer
+   - Greg Brockman: 我是如何成为一名机器学习实践者: https://mp.weixin.qq.com/s/nj2gUPdPYXVB3CfMh62EfA
 -  书（可以先扫一眼，快速浏览）
    - 📖 《GPT 图解》(黄佳 著)
 - 课程（可以先扫一眼，快速浏览）
