@@ -373,6 +373,7 @@ Embeddings and Vector Databases
 - 🎬 How I'd Learn AI in 2024 (if I could start over) https://www.youtube.com/watch?v=h2FDq3agImI&ab_channel=DaveEbbelaar
 
 ### 怎么用好 AI/AI 赋能/AI 的应用场景
+- 🎬 23 AI Tools You Won't Believe are Free https://www.youtube.com/watch?v=ZYUt4WE4Mrw&ab_channel=Futurepedia
 - 🎬 The AI Edge: Work Smarter, Not Harder | by Jeff Su https://www.youtube.com/playlist?list=PLo-kPya_Ww2zT0trbGN68Rmh_xZcq_BoR
 - 🎬 How I Made AI Assistants Do My Work For Me: CrewAI https://www.youtube.com/watch?v=kJvXT25LkwA&ab_channel=MayaAkim
 - 🎬 How AI Could Empower Any Business | Andrew Ng | TED ⭐️⭐️⭐️ https://www.youtube.com/watch?v=reUZRyXxUs4&ab_channel=TED
