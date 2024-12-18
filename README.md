@@ -276,6 +276,7 @@ Transformers
       - [ ] https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api ⭐️ ⭐️ ⭐️ 
 - [ ] Claude 出品
    - [ ] AI prompt engineering: A deep dive https://www.youtube.com/watch?v=T9aRN5JkmL8&ab_channel=Anthropic
+      - 网上的文字总结：https://eamtute8hsd.feishu.cn/wiki/C9jDwyYMoivt35kKBJuck9j3n1g?fromScene=spaceOverview
 - [ ] 🎬 IBM 出品
    - [ ] What is Prompt Tuning? https://www.youtube.com/watch?v=yu27PWzJI_Y&ab_channel=IBMTechnology
    - [ ] 🎬 4 Methods of Prompt Engineering https://www.youtube.com/watch?v=1c9iyoVIwDs&ab_channel=IBMTechnology
