@@ -111,6 +111,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 ### 平台、工具
 - https://huggingface.co/
 - TABLUM’s LLM Explorer: https://llm.extractum.io/
+- LLM 排行：https://openrouter.ai/rankings/roleplay?view=week
 
 ### AI
 - IBM 出品
