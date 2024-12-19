@@ -349,6 +349,7 @@ Embeddings and Vector Databases
 - 🎬 Finetuning LLM | by Mervin Praison https://www.youtube.com/playlist?list=PLYQsp-tXX9w5V4TetD4vAifPmUxMgnQHv
 - 🎬 LLM Fine-tuning Tutorials by Trelis Research https://www.youtube.com/playlist?list=PLWG1mVtuzdxfXkxCbPHh9reKV-fWqraEX
 - 🎬 Fine-tuning by Prompt Engineering  https://www.youtube.com/playlist?list=PLVEEucA9MYhPxf2WmsTSwVljDbH6aQaJB
+- 🎬 How To Create Datasets for Finetuning From Multiple Sources! Improving Finetunes With Embeddings. https://www.youtube.com/watch?v=fYyZiRi6yNE&ab_channel=AemonAlgiz
 
 ### Function calling
 - [ ] Function calling - OpenAI API ⭐️⭐️⭐️: https://platform.openai.com/docs/guides/function-calling 
