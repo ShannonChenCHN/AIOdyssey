@@ -218,6 +218,7 @@ Transformers
 - https://github.com/microsoft/Phi-3CookBook
 - https://github.com/ollama/ollama
 - CharacterGLM 开源模型: https://zhipu-ai.feishu.cn/wiki/MlRiwU8NXi3A3zkpHNdcvcUmnCg
+- 🎬 Llama-2 by Prompt Engineering https://www.youtube.com/playlist?list=PLVEEucA9MYhMkc4HvgHw-TvycgoMhADOI
 
 ### AI Agent，AI 应用开发工具/平台
 - [ ] 🎬 What are AI Agents? https://www.youtube.com/watch?v=F8NKVhkZZWI&ab_channel=IBMTechnology
