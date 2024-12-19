@@ -157,6 +157,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - 🎬 I Built a Neural Network from Scratch https://www.youtube.com/watch?v=cAkMcPfY_Ns&ab_channel=GreenCode
 
 ### LLM
+- [ ] LLMs by Sebastian Raschka 🎬 https://www.youtube.com/playlist?list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm ⭐️⭐️⭐️⭐️
 - [ ] Goolge 出品 ⭐️⭐️⭐️
   - [ ] 🎬 Introduction to large language models https://www.youtube.com/watch?v=zizonToFXDs&ab_channel=GoogleCloudTech
   - [ ] 🎬 Transformers, explained: Understand the model behind GPT, BERT, and T5 https://www.youtube.com/watch?v=SZorAJ4I-sA&ab_channel=GoogleCloudTech
@@ -345,7 +346,9 @@ Embeddings and Vector Databases
 - 🎬 Fine-tuning Large Language Models (LLMs) | w/ Example Code https://www.youtube.com/watch?v=eC6Hd1hFvos&ab_channel=ShawTalebi
 - 🎬 Fine-tuning Llama 2 on Your Own Dataset | Train an LLM for Your Use Case with QLoRA on a Single GPU https://www.youtube.com/watch?v=MDA3LUKNl1E&ab_channel=VenelinValkov
 - 🎬 Fine-tuning LLMs with PEFT and LoRA https://www.youtube.com/watch?v=Us5ZFp16PaU&ab_channel=SamWitteveen
-- 🎬  Finetuning LLM | by Mervin Praison https://www.youtube.com/playlist?list=PLYQsp-tXX9w5V4TetD4vAifPmUxMgnQHv
+- 🎬 Finetuning LLM | by Mervin Praison https://www.youtube.com/playlist?list=PLYQsp-tXX9w5V4TetD4vAifPmUxMgnQHv
+- 🎬 LLM Fine-tuning Tutorials by Trelis Research https://www.youtube.com/playlist?list=PLWG1mVtuzdxfXkxCbPHh9reKV-fWqraEX
+- 🎬 Fine-tuning by Prompt Engineering  https://www.youtube.com/playlist?list=PLVEEucA9MYhPxf2WmsTSwVljDbH6aQaJB
 
 ### Function calling
 - [ ] Function calling - OpenAI API ⭐️⭐️⭐️: https://platform.openai.com/docs/guides/function-calling 
