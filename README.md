@@ -1,7 +1,7 @@
 # AI | Machine Learning | Deep Learning | NLP | LLM | ChatGPT
 
 ## 术语
-AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、Prompt、Prompt Engineering、Function calling、Embedding、RAG、知识库、打标、标注、数据标注、标注数据（输入-输出对）、pair、召回、召回率、语义召回、向量(vector)、向量化、文本向量化、vector database、COT(Chain of Thought)、FSL(Few-Shot Learning)、Fine-tuning、SFT（Supervised Fine-Tuning，监督微调）、DPO 和 RLHF、模型训练、预训练、pre-training and post-training、模型压缩、量化（Quantization）、剪枝（Pruning）、知识蒸馏（Knowledge Distillation）、Model Distillation/Language Distillation（模型蒸馏）、推理优化（inference）、context window、泛化、泛化能力、拟合、过拟合、神经网络、超参、损失函数、自爆 AI、光谱、LoRA、scaling law
+AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、Prompt、Prompt Engineering、Function calling、Embedding、RAG、知识库、打标、标注、数据标注、标注数据（输入-输出对）、pair、召回、召回率、语义召回、向量(vector)、向量化、文本向量化、vector database、COT(Chain of Thought)、FSL(Few-Shot Learning)、Fine-tuning、SFT（Supervised Fine-Tuning，监督微调）、DPO 和 RLHF、模型训练、预训练、pre-training and post-training、模型压缩、量化（Quantization）、剪枝（Pruning）、知识蒸馏（Knowledge Distillation）、Model Distillation/Language Distillation（模型蒸馏）、推理优化（inference）、context window、泛化、泛化能力、拟合、过拟合、神经网络、超参、损失函数、自爆 AI、光谱、LoRA、scaling law、ground truth、[混入预置数据](https://www.volcengine.com/docs/82379/1221664#%E6%98%AF%E5%90%A6%E6%B7%B7%E5%85%A5%E9%A2%84%E7%BD%AE%E6%95%B0%E6%8D%AE)
 
 
 ## 知识体系
