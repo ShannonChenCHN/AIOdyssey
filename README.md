@@ -4,7 +4,7 @@
 AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、Prompt、Prompt Engineering、Function calling、Embedding、RAG、知识库、打标、标注、数据标注、标注数据（输入-输出对）、pair、召回、召回率、语义召回、向量(vector)、向量化、文本向量化、vector database、COT(Chain of Thought)、FSL(Few-Shot Learning)、Fine-tuning、SFT（Supervised Fine-Tuning，监督微调）、DPO 和 RLHF、模型训练、预训练、pre-training and post-training、模型压缩、量化（Quantization）、剪枝（Pruning）、知识蒸馏（Knowledge Distillation）、Model Distillation/Language Distillation（模型蒸馏）、推理优化（inference）、context window、泛化、泛化能力、拟合、过拟合、神经网络、超参、损失函数、自爆 AI、光谱、LoRA、scaling law、ground truth、[混入预置数据](https://www.volcengine.com/docs/82379/1221664#%E6%98%AF%E5%90%A6%E6%B7%B7%E5%85%A5%E9%A2%84%E7%BD%AE%E6%95%B0%E6%8D%AE)
 
 
-## 知识体系
+## 怎么学
 学习重点：LLM，fine-tuning  
 学习目标：让 bot 学会某个人说话的风格  
 学习方法：
@@ -15,10 +15,38 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - 学会利用 AI 工具(ChatGPT、Claude 等)辅助学习
 
 
-学习计划
+## 学习大纲
+- [What is AI?](https://github.com/ShannonChenCHN/AIOdyssey/issues/1)
+- [AI Learning Roadmap](https://github.com/ShannonChenCHN/AIOdyssey/issues/7)
+- [Machine Learning](https://github.com/ShannonChenCHN/AIOdyssey/issues/2)
+- [Deep Learning & Neural Network](https://github.com/ShannonChenCHN/AIOdyssey/issues/3)
+- [NLP & LLM](https://github.com/ShannonChenCHN/AIOdyssey/issues/4)
+- [LLMs: ChatGPT, Claude, Gemini...](https://github.com/ShannonChenCHN/AIOdyssey/issues/5)
+- [AI Agent](https://github.com/ShannonChenCHN/AIOdyssey/issues/6)
+- [Real-world Gen AI Use Cases](https://github.com/ShannonChenCHN/AIOdyssey/issues/8)
+- [Get Hands Dirty & Build From Scratch](https://github.com/ShannonChenCHN/AIOdyssey/issues/9)
+- [Build LLM-based Applications](https://github.com/ShannonChenCHN/AIOdyssey/issues/10)
 
 
 ## 学习资料
+
+### 课程
+- 入门课程推荐: https://waytoagi.feishu.cn/wiki/ZYtkwJQSJiLa5rkMF5scEN4Onhd?table=tblWqPFOvA24Jv6X&view=veweFm2l9w ⭐️⭐️⭐️
+- 🎬 https://www.deeplearning.ai/ ⭐️⭐️⭐️⭐️⭐️
+- Google AI Essentials: https://grow.google/ai-essentials/ ⭐️⭐️⭐️⭐️⭐️
+- Machine Learning Crash Course | Google’s Engineering Education team: https://developers.google.com/machine-learning/crash-course ⭐️⭐️⭐️⭐️⭐️
+- Five-day Gen AI Intensive live course created by Google and Kaggle: https://blog.google/technology/developers/google-kaggle-genai-intensive/
+   - 5-Day Gen AI Intensive Course with Google Learn Guide| Kaggle: https://www.kaggle.com/learn-guide/5-day-genai#GenAI
+- 🎬 YouTube Playlist
+  - [ ] Understanding AI Models | by IBM Technology https://www.youtube.com/playlist?list=PLOspHqNVtKAC-FUNMq8qjYVw6_semZHw0
+  - [ ] Large Language Models and Chatbots | by IBM Technology https://www.youtube.com/playlist?list=PLOspHqNVtKAAsiohuZj1Bt4XpA3_bkS3c
+  - [ ] AI and Machine Learning with Google Cloud Tech | by Google Cloud Tech https://www.youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn
+  - 🎧 Large Language Models (LLMs) | by The TWIML AI Podcast with Sam Charrington https://www.youtube.com/playlist?list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox
+  - Google’s AI Course for Beginners (in 10 minutes)! https://www.youtube.com/watch?v=Yq0QkCxoTHM&t=6s&ab_channel=JeffSu
+  - Claude 3.5 Crash Course for Developers: Code 10x Faster in 2024 [Claude 3.5 artifacts] https://www.youtube.com/watch?v=fMa2zQIkQwM&ab_channel=codewithbrandon
+- B 站
+  - 李宏毅
+  - 李沐
 
 ### 必读（可以先扫一眼，快速浏览）🚀
 - 李沐老师的GPT，GPT-2，GPT-3 论文精读视频：https://www.bilibili.com/video/BV1AF411b7xQ
@@ -68,9 +96,9 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
   - Cookbook: https://github.com/anthropics/anthropic-cookbook
   - https://www.youtube.com/@anthropic-ai
 
- ### 书籍
+### 书籍
  
-技术原理类
+#### 技术原理类
 - 《GPT 图解》(黄佳 著) ⭐️⭐️⭐️
 - 《Python 自然语言处理》(Jalaj Thanaki 著) https://book.douban.com/subject/30350007/
 - 《这就是 ChatGPT》(Stephen Wolfram 著) https://book.douban.com/subject/36449803/ ⭐️⭐️⭐️
@@ -81,7 +109,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - 《大模型应用开发极简入门》https://book.douban.com/subject/36764820/
 - 《数学之美》(吴军 著) https://www.douban.com/doubanapp/dispatch?uri=/book/35033507 ⭐️⭐️⭐️
 
-应用实践类
+#### 应用实践类
 - 《ChatGPT营销实践》https://book.douban.com/subject/36954824/
 - 《AI商业广告设计实战108招》https://book.douban.com/subject/36894358/
 - 《AI绘画与摄影实战108招：ChatGPT+Midjourney+文心一格》https://book.douban.com/subject/36894373/
@@ -96,41 +124,13 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - https://github.com/Hannibal046/Awesome-LLM
 
 
-### 课程
-- 入门课程推荐: https://waytoagi.feishu.cn/wiki/ZYtkwJQSJiLa5rkMF5scEN4Onhd?table=tblWqPFOvA24Jv6X&view=veweFm2l9w ⭐️⭐️⭐️
-- 🎬 https://www.deeplearning.ai/ ⭐️⭐️⭐️⭐️⭐️
-- Google AI Essentials: https://grow.google/ai-essentials/ ⭐️⭐️⭐️⭐️⭐️
-- Machine Learning Crash Course | Google’s Engineering Education team: https://developers.google.com/machine-learning/crash-course ⭐️⭐️⭐️⭐️⭐️
-- Five-day Gen AI Intensive live course created by Google and Kaggle: https://blog.google/technology/developers/google-kaggle-genai-intensive/
-   - 5-Day Gen AI Intensive Course with Google Learn Guide| Kaggle: https://www.kaggle.com/learn-guide/5-day-genai#GenAI
-- 🎬 YouTube Playlist
-  - [ ] Understanding AI Models | by IBM Technology https://www.youtube.com/playlist?list=PLOspHqNVtKAC-FUNMq8qjYVw6_semZHw0
-  - [ ] Large Language Models and Chatbots | by IBM Technology https://www.youtube.com/playlist?list=PLOspHqNVtKAAsiohuZj1Bt4XpA3_bkS3c
-  - [ ] AI and Machine Learning with Google Cloud Tech | by Google Cloud Tech https://www.youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn
-  - 🎧 Large Language Models (LLMs) | by The TWIML AI Podcast with Sam Charrington https://www.youtube.com/playlist?list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox
-  - Google’s AI Course for Beginners (in 10 minutes)! https://www.youtube.com/watch?v=Yq0QkCxoTHM&t=6s&ab_channel=JeffSu
-  - Claude 3.5 Crash Course for Developers: Code 10x Faster in 2024 [Claude 3.5 artifacts] https://www.youtube.com/watch?v=fMa2zQIkQwM&ab_channel=codewithbrandon
-- B 站
-  - 李宏毅
-  - 李沐
-
 ### 平台、工具
 - https://huggingface.co/
 - TABLUM’s LLM Explorer(开源LLM): https://llm.extractum.io/
 - LLM 使用量排行：https://openrouter.ai/rankings/roleplay?view=week
 - LMSYS 排行榜（人工）：https://lmarena.ai/?leaderboard
 
-## 学习大纲
-- [What is AI?](https://github.com/ShannonChenCHN/AIOdyssey/issues/1)
-- [AI Learning Roadmap](https://github.com/ShannonChenCHN/AIOdyssey/issues/7)
-- [Machine Learning](https://github.com/ShannonChenCHN/AIOdyssey/issues/2)
-- [Deep Learning & Neural Network](https://github.com/ShannonChenCHN/AIOdyssey/issues/3)
-- [NLP & LLM](https://github.com/ShannonChenCHN/AIOdyssey/issues/4)
-- [LLMs: ChatGPT, Claude, Gemini...](https://github.com/ShannonChenCHN/AIOdyssey/issues/5)
-- [AI Agent](https://github.com/ShannonChenCHN/AIOdyssey/issues/6)
-- [Real-world Gen AI Use Cases](https://github.com/ShannonChenCHN/AIOdyssey/issues/8)
-- [Get Hands Dirty & Build From Scratch](https://github.com/ShannonChenCHN/AIOdyssey/issues/9)
-- [Build LLM-based Applications](https://github.com/ShannonChenCHN/AIOdyssey/issues/10)
+
 
 
 ### 同行分享交流
