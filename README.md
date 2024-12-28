@@ -33,6 +33,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 #### OpenAI
 - 主页：https://openai.com
 - Research 博客：https://openai.com/research/
+- YouTube 频道：https://www.youtube.com/@OpenAI
 - 开发指南: https://platform.openai.com/docs/overview 
 - Cookbook: https://cookbook.openai.com/ 
   - Related resources from around the web | OpenAI Cookbook https://cookbook.openai.com/articles/related_resources
@@ -56,6 +57,15 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - The Batch | DeepLearning.AI | AI News & Insights: https://www.deeplearning.ai/the-batch/
 - Ahead of AI | Sebastian Raschka, PhD | Substack: https://magazine.sebastianraschka.com
 
+### Twitter 账号
+- https://x.com/AndrewYNg
+- [LangChain](https://x.com/langchainai)
+
+### YouTube 频道
+- https://www.youtube.com/@OpenAI
+- https://www.youtube.com/@anthropic-ai
+- https://www.youtube.com/@LangChain
+- https://www.youtube.com/@SebastianRaschka/playlists
 
 ### 平台、工具
 - Hugging Face: https://huggingface.co/
