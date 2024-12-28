@@ -120,42 +120,9 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - LLM 使用量排行：https://openrouter.ai/rankings/roleplay?view=week
 - LMSYS 排行榜（人工）：https://lmarena.ai/?leaderboard
 
-### AI
-- IBM 出品
-  - [ ] AI Fundamentals | by IBM Technology: https://www.youtube.com/playlist?list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF ⭐️⭐️⭐️
-  [x] 🎬 AI vs Machine Learning: https://www.youtube.com/watch?v=4RixMPF4xis&t=4s&ab_channel=IBMTechnology ⭐️⭐️⭐️
-  [x] 🎬 AI, Machine Learning, Deep Learning and Generative AI Explained: https://www.youtube.com/watch?v=qYNweeDHiyU&ab_channel=IBMTechnology ⭐️⭐️⭐️
-  - [ ] 🎬 What are Generative AI models? https://www.youtube.com/watch?v=hfIUstzHs9A&ab_channel=IBMTechnology
-  - [ ] The Evolution of AI: Traditional AI vs. Generative AI https://www.youtube.com/watch?v=SNZSm02_fpU&ab_channel=IBMTechnology
-  - The 7 Types of AI - And Why We Talk (Mostly) About 3 of Them https://www.youtube.com/watch?v=XFZ-rQ8eeR8&ab_channel=IBMTechnology
-- 🎬 AI: Explained https://www.youtube.com/watch?v=60LZ5Ie8XS8&ab_channel=Mrwhosetheboss
-- 🎬 How AIs, like ChatGPT, Learn https://www.youtube.com/watch?v=R9OHn5ZF4Uo&ab_channel=CGPGrey
-- 🎬 Introduction to Generative AI https://www.youtube.com/watch?v=G2fqAlgmoPo&ab_channel=GoogleCloudTech
-- 🎬 Generative AI in a Nutshell - how to survive and thrive in the age of AI https://www.youtube.com/watch?v=2IK3DFHRFfw&ab_channel=HenrikKniberg
-- [ ] 🎬 What is Data Pipeline? | Why Is It So Popular? https://www.youtube.com/watch?v=kGT4PcTEPP8&ab_channel=ByteByteGo
-- 🎧  The TWIML AI Podcast with Sam Charrington
-  - Language Understanding and LLMs with Christopher Manning - 686 https://www.youtube.com/watch?v=VIZwxufxg28&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=2&t=2010s&ab_channel=TheTWIMLAIPodcastwithSamCharrington
-  - Training Data Locality and Chain-of-Thought Reasoning in LLMs with Ben Prystawski - 673 https://www.youtube.com/watch?v=MRwLhpqkSUM&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=14&ab_channel=TheTWIMLAIPodcastwithSamCharrington
-- 延伸阅读
-  - 🎬 The 10 Stages of Artificial Intelligence https://www.youtube.com/watch?v=tFx_UNW9I1U&ab_channel=FutureBusinessTech
-  - 🎬 Torvalds Speaks: Impact of Artificial Intelligence on Programming https://www.youtube.com/watch?v=VHHT6W-N0ak&ab_channel=MasteryLearning
-  - 🎬 With Spatial Intelligence, AI Will Understand the Real World | Fei-Fei Li | TED https://www.youtube.com/watch?v=y8NtMZ7VGmU&ab_channel=TED
-  - 🎬 What Is an AI Anyway? | Mustafa Suleyman | TED https://www.youtube.com/watch?v=KKNCiRWd_j0&ab_channel=TED
-  - 🎬 The moment we stopped understanding AI [AlexNet] https://www.youtube.com/watch?v=UZDiGooFs54&ab_channel=WelchLabs
+### [What is AI?](https://github.com/ShannonChenCHN/AIOdyssey/issues/1)
+### [机器学习(Machine Learning)](https://github.com/ShannonChenCHN/AIOdyssey/issues/2)
 
-### 机器学习(Machine Learning)
-- 🎬 Machine Learning Explained in 100 Seconds https://www.youtube.com/watch?v=PeMlggyqz0Y&ab_channel=Fireship
-- 🎬 IBM 出品
-  - [ ] What is Machine Learning? ⭐️⭐️⭐️  https://www.youtube.com/watch?v=9gGnTQTYNaE&ab_channel=IBMTechnology
-  - Ten Everyday Machine Learning Use Cases https://www.youtube.com/watch?v=CiSaY2xl9V4&ab_channel=IBMTechnology
-  - [ ] Machine Learning vs Deep Learning ⭐️⭐️⭐️ https://www.youtube.com/watch?v=q6kJ71tEYqM&ab_channel=IBMTechnology
-  - [ ] Supervised vs. Unsupervised Learning ⭐️⭐️⭐️ https://www.youtube.com/watch?v=W01tIRP_Rqs&ab_channel=IBMTechnology
-- 🎧  The TWIML AI Podcast with Sam Charrington ⭐️
-  - AI Trends 2024: Machine Learning & Deep Learning with Thomas Dietterich - 666 https://www.youtube.com/watch?v=ZwKaDPT7NLI&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=9&ab_channel=TheTWIMLAIPodcastwithSamCharrington
-  - AI Trends 2024: Reinforcement Learning in the Age of LLMs with Kamyar Azizzadenesheli - 670 https://www.youtube.com/watch?v=MBo6SIIhTIY&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=10&ab_channel=TheTWIMLAIPodcastwithSamCharrington
-  - Teaching Large Language Models to Reason with Reinforcement Learning with Alex Havrilla - 680 https://www.youtube.com/watch?v=0pPBwcu-Ggo&list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox&index=18&ab_channel=TheTWIMLAIPodcastwithSamCharrington
-- 课程
-  - Deep Learning Tutorial Videos 🔥[2024 Updated] | Simplilearn https://www.youtube.com/playlist?list=PLEiEAq2VkUUIYQ-mMRAGilfOKyWKpHSip
 
 ### 神经网络
 - 课程
