@@ -4,8 +4,7 @@
 AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、Prompt、Prompt Engineering、Function calling、Embedding、RAG、知识库、打标、标注、数据标注、标注数据（输入-输出对）、pair、召回、召回率、语义召回、向量(vector)、向量化、文本向量化、vector database、COT(Chain of Thought)、FSL(Few-Shot Learning)、Fine-tuning、SFT（Supervised Fine-Tuning，监督微调）、DPO 和 RLHF、模型训练、预训练、pre-training and post-training、模型压缩、量化（Quantization）、剪枝（Pruning）、知识蒸馏（Knowledge Distillation）、Model Distillation/Language Distillation（模型蒸馏）、推理优化（inference）、context window、泛化、泛化能力、拟合、过拟合、神经网络、超参、损失函数、自爆 AI、光谱、LoRA、scaling law、ground truth、[混入预置数据](https://www.volcengine.com/docs/82379/1221664#%E6%98%AF%E5%90%A6%E6%B7%B7%E5%85%A5%E9%A2%84%E7%BD%AE%E6%95%B0%E6%8D%AE)
 
 
-## 怎么学
-学习重点：LLM，fine-tuning  
+## 怎么学 
 学习目标：让 bot 学会某个人说话的风格  
 学习方法：
 - 带着目标和问题学习
@@ -30,17 +29,27 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 
 ## 推荐的学习资源
 
-### 官方文档、资源
-- OpenAI
-  - OpenAI developer platform: https://platform.openai.com/docs/overview ⭐️⭐️⭐️
-  - OpenAI Cookbook: https://cookbook.openai.com/ ⭐️⭐️⭐️
-    - Related resources from around the web | OpenAI Cookbook https://cookbook.openai.com/articles/related_resources
-  - OpenAI Dev-Day 2023: Breakout Sessions! https://community.openai.com/t/openai-dev-day-2023-breakout-sessions/505213
-- Gemini
-- Claude
-  - 开发指南：https://docs.anthropic.com/en/home
-  - Cookbook: https://github.com/anthropics/anthropic-cookbook
-  - https://www.youtube.com/@anthropic-ai
+### 官方资源
+#### OpenAI
+- 主页：https://openai.com
+- Research 博客：https://openai.com/research/
+- 开发指南: https://platform.openai.com/docs/overview 
+- Cookbook: https://cookbook.openai.com/ 
+  - Related resources from around the web | OpenAI Cookbook https://cookbook.openai.com/articles/related_resources
+- OpenAI Dev-Day 2023: Breakout Sessions! https://community.openai.com/t/openai-dev-day-2023-breakout-sessions/505213
+
+#### Claude
+- 主页：https://www.anthropic.com/
+- Research 博客：https://www.anthropic.com/research
+- YouTube 频道：https://www.youtube.com/@anthropic-ai
+- 开发指南：https://docs.anthropic.com/en/home
+- Cookbook: https://github.com/anthropics/anthropic-cookbook
+
+#### Gemini
+
+#### Meta
+
+#### Character.AI
 
 
 ### Blog, Newsletter
