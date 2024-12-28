@@ -49,12 +49,10 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 
 
 ### 平台、工具
-- https://huggingface.co/
+- Hugging Face: https://huggingface.co/
 - TABLUM’s LLM Explorer(开源LLM): https://llm.extractum.io/
-- LLM 使用量排行：https://openrouter.ai/rankings/roleplay?view=week
+- Open Router（可以看 LLM 使用量排行）: https://openrouter.ai/rankings/roleplay?view=week
 - LMSYS 排行榜（人工）：https://lmarena.ai/?leaderboard
 
 
-### 同行分享交流
-- 🎧 我在 Character.ai 做 Post Training｜对谈前 C.AI 模型应用算法专家 Ted | | 小宇宙 ⭐️⭐️⭐️: https://www.xiaoyuzhoufm.com/episode/67359e9843dc3a43878eaa90
-- 🎧  #17 从通用走向个人，一个不同的大模型叙事——对话Me.bot创始人陶芳波 - 出海相对论 | 小宇宙 ⭐️: https://www.xiaoyuzhoufm.com/episode/66a20afd33ddcbb53c00e7ad
+
