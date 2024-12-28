@@ -28,56 +28,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - [Build LLM-based Applications](https://github.com/ShannonChenCHN/AIOdyssey/issues/10)
 
 
-## 学习资料
-
-### 课程
-- 入门课程推荐: https://waytoagi.feishu.cn/wiki/ZYtkwJQSJiLa5rkMF5scEN4Onhd?table=tblWqPFOvA24Jv6X&view=veweFm2l9w ⭐️⭐️⭐️
-- 🎬 https://www.deeplearning.ai/ ⭐️⭐️⭐️⭐️⭐️
-- Google AI Essentials: https://grow.google/ai-essentials/ ⭐️⭐️⭐️⭐️⭐️
-- Machine Learning Crash Course | Google’s Engineering Education team: https://developers.google.com/machine-learning/crash-course ⭐️⭐️⭐️⭐️⭐️
-- Five-day Gen AI Intensive live course created by Google and Kaggle: https://blog.google/technology/developers/google-kaggle-genai-intensive/
-   - 5-Day Gen AI Intensive Course with Google Learn Guide| Kaggle: https://www.kaggle.com/learn-guide/5-day-genai#GenAI
-- 🎬 YouTube Playlist
-  - Understanding AI Models | by IBM Technology https://www.youtube.com/playlist?list=PLOspHqNVtKAC-FUNMq8qjYVw6_semZHw0
-  - Large Language Models and Chatbots | by IBM Technology https://www.youtube.com/playlist?list=PLOspHqNVtKAAsiohuZj1Bt4XpA3_bkS3c
-  - AI and Machine Learning with Google Cloud Tech | by Google Cloud Tech https://www.youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn
-  - 🎧 Large Language Models (LLMs) | by The TWIML AI Podcast with Sam Charrington https://www.youtube.com/playlist?list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox
-  - Google’s AI Course for Beginners (in 10 minutes)! https://www.youtube.com/watch?v=Yq0QkCxoTHM&t=6s&ab_channel=JeffSu
-  - Claude 3.5 Crash Course for Developers: Code 10x Faster in 2024 [Claude 3.5 artifacts] https://www.youtube.com/watch?v=fMa2zQIkQwM&ab_channel=codewithbrandon
-- B 站
-  - 李宏毅
-  - 李沐
-
-### 必读（可以先扫一眼，快速浏览）🚀
-- 李沐老师的GPT，GPT-2，GPT-3 论文精读视频：https://www.bilibili.com/video/BV1AF411b7xQ
-   - 视频中提到的论文：
-     - GPT-1: Improving Language Understanding by Generative Pre-Training: https://paperswithcode.com/paper/improving-language-understanding-by
-     - GPT-2: Language Models are Unsupervised Multitask Learners: https://paperswithcode.com/paper/language-models-are-unsupervised-multitask
-     - GPT-3: Language Models are Few-Shot Learners: https://arxiv.org/abs/2005.14165
-- State of GPT by Andrej Karpathy (Microsoft Build 2023): https://www.youtube.com/watch?v=bZQun8Y4L2A&ab_channel=MicrosoftDeveloper
-  - “这个是 GPT 官方分享训练过程，注意 PPT 里面的文字、表格信息量也非常大。试着暂停，然后去理解每一句话、每一个数字的含义。 ”
-  - “Massively insightful talk by Andrej… He goes over how GPT is trained, gives some love to LLaMA, and offers some prompting tips. MUST WATCH!!!”
-  - This video is one of many sessions delivered at the Microsoft Build 2023 event. | In this session, you will hear from Andrej Karpathy on the training pipeline of GPT assistants like ChatGPT, from tokenization to pretraining, supervised finetuning, and Reinforcement Learning from Human Feedback (RLHF). Dive deeper into practical techniques and mental models for the effective use of these models, including prompting strategies, finetuning, the rapidly growing ecosystem of tools, and their future extensions. | Andrej Karpathy is a Slovak-Canadian computer scientist who served as the director of artificial intelligence and Autopilot Vision at Tesla. He currently works for OpenAI, where he specializes in deep learning and computer vision.
-- Instruct GPT: https://openai.com/research/instruction-following （最接近 GPT-3.5 的一篇论文）
-- 斯坦福的人工智能小镇论文
-   - 爆火论文打造《西部世界》雏形：25个AI智能体，在虚拟小镇自由成长：https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650873616&idx=1&sn=966d427ec1675f3a2c5f439d75f5ca65
-     - 论文：https://arxiv.org/abs/2304.03442
-   - 逼真到离谱！1000个人类「克隆」进西部世界，AI相似度85%细节太炸裂：https://mp.weixin.qq.com/s/FKLCKHhP7xgYArLISDdiaw
-     - 论文：https://arxiv.org/abs/2411.10109
-- 各大 LLM 官方文档（可以先扫一眼，快速浏览）
-- 📖 《What Is ChatGPT Doing … and Why Does It Work?》(By Stephen Wolfram Writings)（微信读书上有中文版）: https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
-  - 🎬 What is ChatGPT doing...and why does it work? Wolfram：https://www.youtube.com/watch?v=flXrLGPY3SU&ab_channel=Wolfram
-  - 🎬 How ChatGPT works | Stephen Wolfram and Lex Fridman https://www.youtube.com/watch?v=Ic88oVqr66w&ab_channel=LexClips
-- 🎬 A Survey of Techniques for Maximizing LLM Performance: https://www.youtube.com/watch?v=ahnGLM-RC1Y&ab_channel=OpenAI
--  书（可以先扫一眼，快速浏览）
-   - 📖 《GPT 图解》(黄佳 著)
-   - Build a Large Language Model (From Scratch) (Sebastian Raschka) ⭐️⭐️⭐️⭐️⭐️
-- 课程（可以先扫一眼，快速浏览）
-   - WaytoAGI 推荐的课程合辑(左侧有分类)：https://waytoagi.feishu.cn/wiki/ZYtkwJQSJiLa5rkMF5scEN4Onhd?table=tblWqPFOvA24Jv6X&view=veweFm2l9w
-   - https://www.deeplearning.ai/
-- 非必读，但是有空的时候推荐阅读
-   - 通向AGI之路：大型语言模型（LLM）技术精要: https://zhuanlan.zhihu.com/p/597586623
-
+## 推荐的学习资源
 
 ### 官方文档、资源
 - OpenAI
@@ -92,10 +43,9 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
   - https://www.youtube.com/@anthropic-ai
 
 
-### 知识库
--  📃 通往 AGI 之路: https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e ⭐️⭐️⭐️
-- Generative AI Engineer 知識庫 - ihower's Notes https://ihower.tw/notes/generative-ai-engineer
-- https://github.com/Hannibal046/Awesome-LLM
+### Blog, Newsletter
+- The Batch | DeepLearning.AI | AI News & Insights: https://www.deeplearning.ai/the-batch/
+- Ahead of AI | Sebastian Raschka, PhD | Substack: https://magazine.sebastianraschka.com
 
 
 ### 平台、工具
