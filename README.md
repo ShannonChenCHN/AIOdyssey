@@ -98,8 +98,9 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 
 ### 课程
 - 入门课程推荐: https://waytoagi.feishu.cn/wiki/ZYtkwJQSJiLa5rkMF5scEN4Onhd?table=tblWqPFOvA24Jv6X&view=veweFm2l9w ⭐️⭐️⭐️
-- 🎬 https://www.deeplearning.ai/ ⭐️⭐️⭐️
-- Google AI Essentials: https://grow.google/ai-essentials/
+- 🎬 https://www.deeplearning.ai/ ⭐️⭐️⭐️⭐️⭐️
+- Google AI Essentials: https://grow.google/ai-essentials/ ⭐️⭐️⭐️⭐️⭐️
+- Machine Learning Crash Course | Google’s Engineering Education team: https://developers.google.com/machine-learning/crash-course ⭐️⭐️⭐️⭐️⭐️
 - Five-day Gen AI Intensive live course created by Google and Kaggle: https://blog.google/technology/developers/google-kaggle-genai-intensive/
    - 5-Day Gen AI Intensive Course with Google Learn Guide| Kaggle: https://www.kaggle.com/learn-guide/5-day-genai#GenAI
 - 🎬 YouTube Playlist
