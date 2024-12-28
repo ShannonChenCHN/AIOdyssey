@@ -38,9 +38,9 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - Five-day Gen AI Intensive live course created by Google and Kaggle: https://blog.google/technology/developers/google-kaggle-genai-intensive/
    - 5-Day Gen AI Intensive Course with Google Learn Guide| Kaggle: https://www.kaggle.com/learn-guide/5-day-genai#GenAI
 - 🎬 YouTube Playlist
-  - [ ] Understanding AI Models | by IBM Technology https://www.youtube.com/playlist?list=PLOspHqNVtKAC-FUNMq8qjYVw6_semZHw0
-  - [ ] Large Language Models and Chatbots | by IBM Technology https://www.youtube.com/playlist?list=PLOspHqNVtKAAsiohuZj1Bt4XpA3_bkS3c
-  - [ ] AI and Machine Learning with Google Cloud Tech | by Google Cloud Tech https://www.youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn
+  - Understanding AI Models | by IBM Technology https://www.youtube.com/playlist?list=PLOspHqNVtKAC-FUNMq8qjYVw6_semZHw0
+  - Large Language Models and Chatbots | by IBM Technology https://www.youtube.com/playlist?list=PLOspHqNVtKAAsiohuZj1Bt4XpA3_bkS3c
+  - AI and Machine Learning with Google Cloud Tech | by Google Cloud Tech https://www.youtube.com/playlist?list=PLIivdWyY5sqJdmVMjLI8iCul14XkTRosn
   - 🎧 Large Language Models (LLMs) | by The TWIML AI Podcast with Sam Charrington https://www.youtube.com/playlist?list=PLILZm3MRkvH_Haw5riDiH3Eb1nNDauoox
   - Google’s AI Course for Beginners (in 10 minutes)! https://www.youtube.com/watch?v=Yq0QkCxoTHM&t=6s&ab_channel=JeffSu
   - Claude 3.5 Crash Course for Developers: Code 10x Faster in 2024 [Claude 3.5 artifacts] https://www.youtube.com/watch?v=fMa2zQIkQwM&ab_channel=codewithbrandon
@@ -71,6 +71,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - 🎬 A Survey of Techniques for Maximizing LLM Performance: https://www.youtube.com/watch?v=ahnGLM-RC1Y&ab_channel=OpenAI
 -  书（可以先扫一眼，快速浏览）
    - 📖 《GPT 图解》(黄佳 著)
+   - Build a Large Language Model (From Scratch) (Sebastian Raschka) ⭐️⭐️⭐️⭐️⭐️
 - 课程（可以先扫一眼，快速浏览）
    - WaytoAGI 推荐的课程合辑(左侧有分类)：https://waytoagi.feishu.cn/wiki/ZYtkwJQSJiLa5rkMF5scEN4Onhd?table=tblWqPFOvA24Jv6X&view=veweFm2l9w
    - https://www.deeplearning.ai/
@@ -80,9 +81,9 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 
 ### 官方文档、资源
 - OpenAI
-  - [ ] OpenAI developer platform: https://platform.openai.com/docs/overview ⭐️⭐️⭐️
-  - [ ] OpenAI Cookbook: https://cookbook.openai.com/ ⭐️⭐️⭐️
-    - [ ] Related resources from around the web | OpenAI Cookbook https://cookbook.openai.com/articles/related_resources
+  - OpenAI developer platform: https://platform.openai.com/docs/overview ⭐️⭐️⭐️
+  - OpenAI Cookbook: https://cookbook.openai.com/ ⭐️⭐️⭐️
+    - Related resources from around the web | OpenAI Cookbook https://cookbook.openai.com/articles/related_resources
   - OpenAI Dev-Day 2023: Breakout Sessions! https://community.openai.com/t/openai-dev-day-2023-breakout-sessions/505213
 - Gemini
 - Claude
@@ -90,30 +91,9 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
   - Cookbook: https://github.com/anthropics/anthropic-cookbook
   - https://www.youtube.com/@anthropic-ai
 
-### 书籍
- 
-#### 技术原理类
-- 《GPT 图解》(黄佳 著) ⭐️⭐️⭐️
-- 《Python 自然语言处理》(Jalaj Thanaki 著) https://book.douban.com/subject/30350007/
-- 《这就是 ChatGPT》(Stephen Wolfram 著) https://book.douban.com/subject/36449803/ ⭐️⭐️⭐️
-  - 英文版：What Is ChatGPT Doing ... and Why Does It Work? https://book.douban.com/subject/36325029/
-- 《ChatGPT原理与应用开发》https://book.douban.com/subject/36789967/ 
-- 《大模型应用解决方案 : 基于GPT-3、ChatGPT、GPT-4等Transformer架构的自然语言处理》https://book.douban.com/subject/36696373/
-- 《自然语言处理入门》(何晗 著) https://book.douban.com/subject/34856701/
-- 《大模型应用开发极简入门》https://book.douban.com/subject/36764820/
-- 《数学之美》(吴军 著) https://www.douban.com/doubanapp/dispatch?uri=/book/35033507 ⭐️⭐️⭐️
-
-#### 应用实践类
-- 《ChatGPT营销实践》https://book.douban.com/subject/36954824/
-- 《AI商业广告设计实战108招》https://book.douban.com/subject/36894358/
-- 《AI绘画与摄影实战108招：ChatGPT+Midjourney+文心一格》https://book.douban.com/subject/36894373/
-- 《AI短视频生成与剪辑实战108招：ChatGPT+剪映》https://book.douban.com/subject/36889464/
-- 《ChatGPT+AI文案写作实战108招》https://book.douban.com/subject/36894218/
-- 《智慧共生 ChatGPT与AIGC生产力工具实践》https://book.douban.com/subject/36427721/
-- 《AI重塑演讲力：ChatGPT 10倍提升演讲写作与表达》https://book.douban.com/subject/36947415/
 
 ### 知识库
-- [ ] 📃 通往 AGI 之路: https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e ⭐️⭐️⭐️
+-  📃 通往 AGI 之路: https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e ⭐️⭐️⭐️
 - Generative AI Engineer 知識庫 - ihower's Notes https://ihower.tw/notes/generative-ai-engineer
 - https://github.com/Hannibal046/Awesome-LLM
 
@@ -123,8 +103,6 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - TABLUM’s LLM Explorer(开源LLM): https://llm.extractum.io/
 - LLM 使用量排行：https://openrouter.ai/rankings/roleplay?view=week
 - LMSYS 排行榜（人工）：https://lmarena.ai/?leaderboard
-
-
 
 
 ### 同行分享交流
