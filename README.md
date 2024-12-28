@@ -59,7 +59,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 
 ### Twitter 账号
 - https://x.com/AndrewYNg
-- [LangChain](https://x.com/langchainai)
+- https://x.com/langchainai
 
 ### YouTube 频道
 - https://www.youtube.com/@OpenAI
