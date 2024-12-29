@@ -8,7 +8,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 学习目标：让 bot 学会某个人说话的风格  
 学习方法：
 - 带着目标和问题学习
-- 多动手：practice, practice, practice
+- 多动手 & 一万小时法则：practice, practice, practice，
 - 费曼学习法：包括写下来、写博客公众号、讲给别人听、做分享
 - 《软件能》的“十步学习法”：https://time.geekbang.org/column/article/127656
 - 学会利用 AI 工具(ChatGPT、Claude 等)辅助学习
