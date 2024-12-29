@@ -67,6 +67,8 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - https://www.youtube.com/@anthropic-ai
 - https://www.youtube.com/@LangChain
 - https://www.youtube.com/@SebastianRaschka/playlists
+- https://www.youtube.com/@Google
+- https://www.youtube.com/@googlecloudtech
 
 ### 平台、工具
 - Hugging Face: https://huggingface.co/
