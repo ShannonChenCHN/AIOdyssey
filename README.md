@@ -57,6 +57,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - Letters from Andrew Ng: https://www.deeplearning.ai/the-batch/tag/letters/
 - The Batch | DeepLearning.AI | AI News & Insights: https://www.deeplearning.ai/the-batch/
 - Ahead of AI | Sebastian Raschka, PhD | Substack: https://magazine.sebastianraschka.com
+- Decoding ML | Paul Iusztin | Substack: https://decodingml.substack.com/
 
 ### Twitter 账号
 - https://x.com/AndrewYNg
