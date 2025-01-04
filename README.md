@@ -73,10 +73,12 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 
 ### 平台、工具
 - Hugging Face: https://huggingface.co/
-- TABLUM’s LLM Explorer(开源LLM): https://llm.extractum.io/
+   - [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/): allows you to find the best base pre-trained models in English, using a range of academic evaluations looking at language understanding, general knowledge, and math.
+   - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard): an open-source platform for evaluating AI through human preference, developed by researchers at UC Berkeley SkyLab and LMSYS. With over 1,000,000 user votes, the platform ranks best LLM and AI chatbots using the Bradley-Terry model to generate live leaderboards.
+      - [LMSYS 聊天机器人竞技场](https://lmarena.ai/?leaderboard)（基于人工评测的）: 由大型模型系统组织（LMSYS Org）开发的一个开放平台，旨在通过人类偏好评估大型语言模型（LLMs）的性能。在这个平台上，用户可以与两个匿名的聊天机器人进行对话，并对它们的回答进行比较和投票，从而为模型的评估提供数据支持。
+- TABLUM’s LLM Explorer(开源 LLM 社区): https://llm.extractum.io/
 - Open Router（可以看 LLM 使用量排行）: https://openrouter.ai/rankings/roleplay?view=week
-- LMSYS Chatbot Arena Leaderboard: https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
-- LMSYS 排行榜（人工）：https://lmarena.ai/?leaderboard
+
 
 
 
