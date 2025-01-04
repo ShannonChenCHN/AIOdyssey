@@ -79,7 +79,8 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - TABLUM’s LLM Explorer(开源 LLM 社区): https://llm.extractum.io/
 - Open Router（可以看 LLM 使用量排行）: https://openrouter.ai/rankings/roleplay?view=week
 - [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark?tab=readme-ov-file#-%E6%8E%92%E8%A1%8C%E6%A6%9C): 中文大模型能力评测榜单
-
-
+- [SEAL LLM Leaderboards](https://scale.com/leaderboard)（有中文排行）: 是由Scale AI的安全、评估和对齐实验室（SEAL）开发的一个平台，旨在对大型语言模型（LLMs）进行精确和可靠的排名。
+- YourGPT.ai（可以用来选择模型做评测指标对比）：https://yourgpt.ai/tools/llm-comparison-and-leaderboard
+- Artificial Analysis（数据比较详细的一个 LLM 榜单）：https://artificialanalysis.ai/models
 
 
