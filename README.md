@@ -78,6 +78,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
       - [LMSYS 聊天机器人竞技场](https://lmarena.ai/?leaderboard)（基于人工评测的）: 由大型模型系统组织（LMSYS Org）开发的一个开放平台，旨在通过人类偏好评估大型语言模型（LLMs）的性能。在这个平台上，用户可以与两个匿名的聊天机器人进行对话，并对它们的回答进行比较和投票，从而为模型的评估提供数据支持。
 - TABLUM’s LLM Explorer(开源 LLM 社区): https://llm.extractum.io/
 - Open Router（可以看 LLM 使用量排行）: https://openrouter.ai/rankings/roleplay?view=week
+- [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark?tab=readme-ov-file#-%E6%8E%92%E8%A1%8C%E6%A6%9C): 中文大模型能力评测榜单
 
 
 
