@@ -75,6 +75,7 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
 - Hugging Face: https://huggingface.co/
 - TABLUM’s LLM Explorer(开源LLM): https://llm.extractum.io/
 - Open Router（可以看 LLM 使用量排行）: https://openrouter.ai/rankings/roleplay?view=week
+- LMSYS Chatbot Arena Leaderboard: https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
 - LMSYS 排行榜（人工）：https://lmarena.ai/?leaderboard
 
 
