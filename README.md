@@ -76,12 +76,13 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
    - [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/): allows you to find the best base pre-trained models in English, using a range of academic evaluations looking at language understanding, general knowledge, and math.
    - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard): an open-source platform for evaluating AI through human preference, developed by researchers at UC Berkeley SkyLab and LMSYS. With over 1,000,000 user votes, the platform ranks best LLM and AI chatbots using the Bradley-Terry model to generate live leaderboards.
       - [LMSYS 聊天机器人竞技场](https://lmarena.ai/?leaderboard)（基于人工评测的）: 由大型模型系统组织（LMSYS Org）开发的一个开放平台，旨在通过人类偏好评估大型语言模型（LLMs）的性能。在这个平台上，用户可以与两个匿名的聊天机器人进行对话，并对它们的回答进行比较和投票，从而为模型的评估提供数据支持。
-- TABLUM’s LLM Explorer(开源 LLM 社区): https://llm.extractum.io/
-- Open Router（可以看 LLM 使用量排行）: https://openrouter.ai/rankings/roleplay?view=week
-- [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark?tab=readme-ov-file#-%E6%8E%92%E8%A1%8C%E6%A6%9C): 中文大模型能力评测榜单
-- [open-compass/opencompass](https://github.com/open-compass/OpenCompass): [司南 OpenCompass](https://rank.opencompass.org.cn/leaderboard-llm/?m=24-11) 是由上海人工智能实验室研发的大模型评测体系及开放平台
-- [SEAL LLM Leaderboards](https://scale.com/leaderboard)（有中文排行）: 是由Scale AI的安全、评估和对齐实验室（SEAL）开发的一个平台，旨在对大型语言模型（LLMs）进行精确和可靠的排名。
-- YourGPT.ai（可以用来选择模型做评测指标对比）：https://yourgpt.ai/tools/llm-comparison-and-leaderboard
-- Artificial Analysis（数据比较详细的一个 LLM 榜单）：https://artificialanalysis.ai/models
-
+- Open Router（按 LLM 使用量排行）: https://openrouter.ai/rankings/roleplay?view=week
+- 中文排行榜
+   - [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark?tab=readme-ov-file#-%E6%8E%92%E8%A1%8C%E6%A6%9C): 中文大模型能力评测榜单
+   - [open-compass/opencompass](https://github.com/open-compass/OpenCompass): [司南 OpenCompass](https://rank.opencompass.org.cn/leaderboard-llm/?m=24-11) 是由上海人工智能实验室研发的大模型评测体系及开放平台
+   - [SEAL LLM Leaderboards](https://scale.com/leaderboard/chinese): 是由Scale AI的安全、评估和对齐实验室（SEAL）开发的一个平台，旨在对大型语言模型（LLMs）进行精确和可靠的排名。
+- 其他
+   - TABLUM’s LLM Explorer(开源 LLM 社区): https://llm.extractum.io/
+   - YourGPT.ai（可以用来选择模型做评测指标对比）：https://yourgpt.ai/tools/llm-comparison-and-leaderboard
+   - Artificial Analysis（数据比较详细的一个 LLM 榜单）：https://artificialanalysis.ai/models
 
