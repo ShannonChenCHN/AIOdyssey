@@ -16,7 +16,8 @@ RAFT: Adapting Language Model to Domain Specific RAG
 
 #### Insights
 
-1. 结合 RAG 进行 SFT 有助于提成 LLM 表现；
+1. 将 RAG 和 SFT 类比成我们学校里的开卷考试和闭卷考试；
+2. 结合 RAG 进行 SFT 有助于提成 LLM 表现；
   - 怎么做呢？在训练时提供「问题 + context 信息+ CoT 答案」
   - 使用 Chain-of-Thought 的数据训练，能提升准确性，同时降低过拟合
 2. 需要所有的训练数据都带上 context 信息吗？
