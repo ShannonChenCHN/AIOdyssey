@@ -85,4 +85,5 @@ AI、AIGC、AGI、token、LLM、大模型、GPT、ChatGPT、幻觉、AI agent、
    - TABLUM’s LLM Explorer(开源 LLM 社区): https://llm.extractum.io/
    - YourGPT.ai（可以用来选择模型做评测指标对比）：https://yourgpt.ai/tools/llm-comparison-and-leaderboard
    - Artificial Analysis（数据比较详细的一个 LLM 榜单）：https://artificialanalysis.ai/models
+- [AI 工具集](https://ai-bot.cn/)：一个 AI 工具导航站，有点像 AI 领域的 hao123。
 
